@@ -23,22 +23,7 @@ const entregas = [
         id: 3,
         thumb: "https://kronus.kebook.com.br/assets/55bc81e1-d7c7-4867-a32c-90913c64962d/content-expert.png",
         archive: "19U2z9Eg7GlB4PhPA58oaFEfTYJNZJrSs"
-    },
-    {
-        id: 4,
-        thumb: "",
-        archive: ""
-    },
-    {
-        id: 5,
-        thumb: "",
-        archive: ""
-    },
-    {
-        id: 6,
-        thumb: "",
-        archive: ""
-    },
+    }
 ]
 </script>
 
