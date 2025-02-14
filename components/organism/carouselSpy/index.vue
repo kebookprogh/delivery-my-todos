@@ -16,17 +16,17 @@ const entregasSpy = [
         thumb: "https://kronus.kebook.com.br/assets/8926ea06-fcf6-47c0-9c3a-440c1a3478a6/content-expert.png",
         archive: "1dpm-5fsVt0hRNwtjlBVHGJFkndZ_Jv3a",
 
-        title: 'Desbloqueie o Artista: Técnicas e Práticas para Excelência em Desenho!',
+        title: 'Desbloqueie o Artista: Técnicas e Práticas para Excelência em Desenho',
 
-        subtitle: 'Transforme suas ideias em arte: aprenda técnicas de desenho e pratique com experts! Torne-se um desenhista habilidoso e criativo.',
+        subtitle: 'Transforme suas ideias em arte: aprenda técnicas de desenho e pratique com experts. Torne-se um desenhista habilidoso e criativo.',
 
-        aboutTitle: 'Aprenda a desenhar! Curso completo: técnicas básicas até avançadas, com muita prática. Transforme seu traço e expresse arte!',
-        aboutProduct: 'Você já imaginou capturar o mundo com a ponta do seu lápis? Com o curso \"Artista Master em Desenho\", transformamos sua visão artística em realidade, levando você em uma jornada criativa incrível. Este curso é sua chave de ouro para descobrir os segredos do desenho, desde conceitos fundamentais até técnicas avançadas, acessíveis a todos os níveis de habilidade. Liberte o artista dentro de você!\n\nDesenvolvido por mestres da arte visual, nosso curso é um tesouro que oferece conteúdo prático e teórico, meticulosamente planejado para impulsionar sua habilidade e confiança. Exploramos perspectiva, sombreamento, composição e muito mais, tudo em um formato fácil de seguir. Veja seu progresso através de exercícios práticos que transformarão sua capacidade de desenhar em poucas semanas!\n\nNão deixe escapar a oportunidade de brilhar no mundo do desenho. A inscrição no \"Como Desenhar\" é uma decisão inteligente para quem deseja elevar sua arte. Espaços são limitados, então garanta seu lugar agora e comece a criar obras que capturam a essência da beleza ao seu redor. Vamos juntos desbloquear seu potencial ilimitado!',
+        aboutTitle: 'Aprenda a desenhar! Curso completo: técnicas básicas até avançadas, com muita prática. Transforme seu traço e expresse arte',
+        aboutProduct: 'Você já imaginou capturar o mundo com a ponta do seu lápis? Com o curso \"Como Desenhar\", transformamos sua visão artística em realidade, levando você em uma jornada criativa incrível. Este curso é sua chave de ouro para descobrir os segredos do desenho, desde conceitos fundamentais até técnicas avançadas, acessíveis a todos os níveis de habilidade. Liberte o artista dentro de você!\n\nDesenvolvido pelo Thiago Spyked, nosso curso é um tesouro que oferece conteúdo prático e teórico, meticulosamente planejado para impulsionar sua habilidade e confiança. Exploramos perspectiva, sombreamento, composição e muito mais, tudo em um formato fácil de seguir. Veja seu progresso através de exercícios práticos que transformarão sua capacidade de desenhar em poucas semanas!\n\nNão deixe escapar a oportunidade de brilhar no mundo do desenho. A inscrição no \"Como Desenhar\" é uma decisão inteligente para quem deseja elevar sua arte. Espaços são limitados, então garanta seu lugar agora e comece a criar obras que capturam a essência da beleza ao seu redor. Vamos juntos desbloquear seu potencial ilimitado!',
 
-        howTitle1: 'Técnicas Essenciais de Desenho',
+        howTitle1: 'Técnicas Essenciais',
         howDesc1: 'Explore os fundamentos do desenho e aprimore sua técnica com práticas efetivas em nosso curso completo.',
 
-        howTitle2: 'Traços Precisos: Desenho',
+        howTitle2: 'Traços Precisos',
         howDesc2: 'Explore técnicas essenciais de desenho com videoaulas detalhadas, guias práticos e feedback constante.',
 
         howTitle3: 'Desenho Master (não gostei desse aqui)',
@@ -103,23 +103,23 @@ const entregasSpy = [
         thumb: "https://kronus.kebook.com.br/assets/55bc81e1-d7c7-4867-a32c-90913c64962d/content-expert.png",
         archive: "1Nr_LgtSa-P2M9d2rh6iUpsRukA37WscY",
 
-        title: 'Domine a Arte dos Quadrinhos: Crie e Publique Suas Histórias em Passos Simples!',
+        title: 'Domine a Arte dos Quadrinhos: Crie e Publique Suas Histórias em Passos Simples',
 
-        subtitle: 'Transforme ideias em quadrinhos épicos! Aprenda a criar, ilustrar e publicar suas histórias com nosso curso passo a passo. Torne-se um artista reconhecido!',
+        subtitle: 'Transforme ideias em quadrinhos épicos! Aprenda a criar, ilustrar e publicar suas histórias com nosso curso passo a passo. Torne-se um artista reconhecido',
 
         aboutTitle: 'Aprenda a criar quadrinhos: do esboço ao sucesso em poucos passos',
         aboutProduct: 'Liberte o Artista de Quadrinhos em Você!\n\nVocê é fascinado por mundos onde super-heróis, criaturas fantásticas e histórias emocionantes saltam das páginas? Imagine se essas ideias incríveis viessem da SUA mente, ganhassem vida através de SEUS desenhos! Com nosso curso exclusivo, \"Desenhe e Anime Seus Quadrinhos\", isso não só é possível como garantido. Através de técnicas simples e eficazes, ensinamos você a criar e ilustrar suas próprias narrativas gráficas, passo a passo. Transforme seus rascunhos em obras de arte publicáveis!\n\nNão é só um curso, é uma jornada de descoberta. Aprenda a estruturar enredos cativantes, personagens memoráveis e cenários impressionantes. Desde conceitos básicos até técnicas avançadas de desenho e coloração digital, cobrimos tudo o que você precisa para se tornar um mestre na arte dos quadrinhos. Mais do que isso, você aprenderá estratégias para divulgar e monetizar seu trabalho, atingindo milhares de fãs ávidos por suas criações. \n\nNão deixe seu talento adormecido! O mercado de quadrinhos está em expansão, e este é o momento perfeito para você brilhar. Com acesso vitalício, suporte contínuo e uma comunidade de aspirantes a artistas como você, não há limites para onde suas histórias podem chegar. Inscreva-se hoje e comece a dar vida às histórias que só você pode contar. Seu futuro como criador de quadrinhos começa agora!',
 
-        howTitle1: 'Dominando Quadrinhos Criativos',
+        howTitle1: 'Quadrinhos Criativos',
         howDesc1: 'Aprenda a criar seus quadrinhos! Curso passo a passo para desenhar, produzir e promover suas histórias incríveis. Transforme ideias em arte!',
 
-        howTitle2: 'Quadrinhos: Cria e Conquista',
+        howTitle2: 'Criação de Quadrinhos',
         howDesc2: 'Aprenda a criar quadrinhos do zero: técnicas de desenho, narrativa visual, produção e estratégias de divulgação no mercado',
 
-        howTitle3: 'Quadrinhos Master',
+        howTitle3: 'Quadrinhos Avançados',
         howDesc3: 'Descubra como transformar sua paixão em realidade com nosso curso de desenho de quadrinhos! Aprenda passo a passo a criar, produzir e divulgar suas histórias únicas.',
 
-        howTitle4: 'Quadrinhos Criativos',
+        howTitle4: 'Quadrinhos Vívidos',
         howDesc4: 'Desperte seu talento e traga suas histórias à vida com nosso curso de criação de quadrinhos! Aprenda a desenhar, produzir e divulgar suas obras de forma eficaz.',
 
         bonusTitle1: 'Evite erros que prejudicam seu sucesso',
@@ -146,7 +146,7 @@ const entregasSpy = [
         thumb: "https://kronus.kebook.com.br/assets/55c25079-1155-4fbc-8cb9-7d950a7f5b7d/content-expert.png",
         archive: "1-X1EVRW8sjNk9hFohLDNoyNBmSGTilOR",
 
-        title: 'Pintura com Marcadores para Animes: Transforme Ilustrações em Arte! (nota dó pra EVA)',
+        title: 'Domine a Arte da Pintura com Marcadores e Transforme Ilustrações em Animes',
 
         subtitle: 'Transforme suas ilustrações em animes espetaculares com técnicas exclusivas de pintura com marcadores. Descubra o artista em você!',
 

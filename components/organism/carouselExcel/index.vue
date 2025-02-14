@@ -94,8 +94,7 @@ const entregasSpy = [
                         <img class="object-cover h-56" :src="delivery.thumb" alt="">
                         <a :href="`https://drive.google.com/uc?export=download&id=${delivery.archive}`">
                             <button
-                                class="bg-yellow-500 w-full font-black rounded-b-lg p-2 hover:bg-yellow-600 hover:delay-200">Clica
-                                em mim!</button>
+                                class="bg-yellow-500 w-full font-black rounded-b-lg p-2 hover:bg-yellow-600 hover:delay-200">Clica em mim!</button>
                         </a>
                     </CarouselItem>
                 </CarouselContent>
