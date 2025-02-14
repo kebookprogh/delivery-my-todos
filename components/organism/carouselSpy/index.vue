@@ -18,40 +18,40 @@ const entregasSpy = [
 
         title: 'Desbloqueie o Artista: Técnicas e Práticas para Excelência em Desenho',
 
-        subtitle: 'Transforme suas ideias em arte: aprenda técnicas de desenho e pratique com experts. Torne-se um desenhista habilidoso e criativo.',
+        subtitle: 'Transforme suas ideias em arte, aprenda técnicas de desenho e pratique com experts. Torne-se um desenhista habilidoso e criativo.',
 
-        aboutTitle: 'Aprenda a desenhar! Curso completo: técnicas básicas até avançadas, com muita prática. Transforme seu traço e expresse arte',
+        aboutTitle: 'Aprenda a desenhar! Técnicas básicas até avançadas, com muita prática. Transforme seu traço e expresse arte',
         aboutProduct: 'Você já imaginou capturar o mundo com a ponta do seu lápis? Com o curso \"Como Desenhar\", transformamos sua visão artística em realidade, levando você em uma jornada criativa incrível. Este curso é sua chave de ouro para descobrir os segredos do desenho, desde conceitos fundamentais até técnicas avançadas, acessíveis a todos os níveis de habilidade. Liberte o artista dentro de você!\n\nDesenvolvido pelo Thiago Spyked, nosso curso é um tesouro que oferece conteúdo prático e teórico, meticulosamente planejado para impulsionar sua habilidade e confiança. Exploramos perspectiva, sombreamento, composição e muito mais, tudo em um formato fácil de seguir. Veja seu progresso através de exercícios práticos que transformarão sua capacidade de desenhar em poucas semanas!\n\nNão deixe escapar a oportunidade de brilhar no mundo do desenho. A inscrição no \"Como Desenhar\" é uma decisão inteligente para quem deseja elevar sua arte. Espaços são limitados, então garanta seu lugar agora e comece a criar obras que capturam a essência da beleza ao seu redor. Vamos juntos desbloquear seu potencial ilimitado!',
 
         howTitle1: 'Técnicas Essenciais',
         howDesc1: 'Explore os fundamentos do desenho e aprimore sua técnica com práticas efetivas em nosso curso completo.',
 
         howTitle2: 'Traços Precisos',
-        howDesc2: 'Explore técnicas essenciais de desenho com videoaulas detalhadas, guias práticos e feedback constante.',
+        howDesc2: 'Aprenda técnicas essenciais de desenho com videoaulas detalhadas, guias práticos e feedback constante.',
 
-        howTitle3: 'Desenho Master (não gostei desse aqui)',
+        howTitle3: 'Desenho Fodástico',
         howDesc3: 'Aprimore suas habilidades artísticas aplicando técnicas essenciais e práticas direcionadas, aprendidas em nosso curso, para elevar seus desenhos a um novo patamar de excelência!',
 
         howTitle4: 'Desenho Prático',
-        howDesc4: 'Descubra o universo do desenho! Aprenda conceitos fundamentais e pratique intensamente com nosso infoproduto inovador!',
+        howDesc4: 'Descubra o universo do desenho e aplique conceitos fundamentais e pratique intensamente.',
 
         bonusTitle1: 'Guia Desmistificando Mitos',
         bonusDesc1: 'Descubra o que o mercado exige e quais caminhos seguir para se tornar um profissional.',
-        bonusLil1Desc1: 'Compreenda as diferenças entre cursos e escolha o melhor para você.',
-        bonusLil2Desc1: 'Descubra o que realmente importa para o mercado de trabalho.',
-        bonusLil3Desc1: 'Desvende mitos e verdades sobre a necessidade de uma faculdade.',
+        bonusLil1Desc1: 'Compreenda as diferenças entre cursos e escolha o melhor para você',
+        bonusLil2Desc1: 'Descubra o que realmente importa para o mercado de trabalho',
+        bonusLil3Desc1: 'Desvende mitos e verdades sobre a necessidade de uma faculdade',
 
         bonusTitle2: 'Manual Trabalho Instantâneo',
         bonusDesc2: 'Descubra onde encontrar oportunidades e como se destacar no mercado.',
-        bonusLil1Desc2: 'Aprenda como transformar seu talento em uma carreira lucrativa.',
-        bonusLil2Desc2: 'Descubra quem contrata e onde encontrar trabalho como desenhista.',
-        bonusLil3Desc2: 'Avalie se você está pronto para entrar no mercado e como se preparar melhor.',
+        bonusLil1Desc2: 'Aprenda como transformar seu talento em uma carreira lucrativa',
+        bonusLil2Desc2: 'Descubra quem contrata e onde encontrar trabalho como desenhista',
+        bonusLil3Desc2: 'Avalie se você está pronto para entrar no mercado e como se preparar melhor',
 
         bonusTitle3: 'Guia Materiais de Desenho',
-        bonusDesc3: 'Saiba onde comprar, comparar preços e escolher os melhores materiais para seu estilo',
-        bonusLil1Desc3: 'Conheça as melhores lojas para comprar materiais de desenho no país.',
-        bonusLil2Desc3: 'Entenda as diferenças entre material escolar e artístico antes de investir.',
-        bonusLil3Desc3: 'Descubra os preços e faça escolhas inteligentes para seu orçamento.',
+        bonusDesc3: 'Saiba onde comprar, comparar preços e escolher os melhores materiais para seu estilo.',
+        bonusLil1Desc3: 'Conheça as melhores lojas para comprar materiais de desenho no país',
+        bonusLil2Desc3: 'Entenda as diferenças entre material escolar e artístico antes de investir',
+        bonusLil3Desc3: 'Descubra os preços e faça escolhas inteligentes para seu orçamento',
 
     },
     {
@@ -108,13 +108,13 @@ const entregasSpy = [
         subtitle: 'Transforme ideias em quadrinhos épicos! Aprenda a criar, ilustrar e publicar suas histórias com nosso curso passo a passo. Torne-se um artista reconhecido',
 
         aboutTitle: 'Aprenda a criar quadrinhos: do esboço ao sucesso em poucos passos',
-        aboutProduct: 'Você é fascinado por mundos onde super-heróis, criaturas fantásticas e histórias emocionantes saltam das páginas? Imagine se essas ideias incríveis viessem da SUA mente, ganhassem vida através de SEUS desenhos! Com nosso curso exclusivo, \"Desenhe e Anime Seus Quadrinhos\", isso não só é possível como garantido. Através de técnicas simples e eficazes, ensinamos você a criar e ilustrar suas próprias narrativas gráficas, passo a passo. Transforme seus rascunhos em obras de arte publicáveis!\n\nNão é só um curso, é uma jornada de descoberta. Aprenda a estruturar enredos cativantes, personagens memoráveis e cenários impressionantes. Desde conceitos básicos até técnicas avançadas de desenho e coloração digital, cobrimos tudo o que você precisa para se tornar um mestre na arte dos quadrinhos. Mais do que isso, você aprenderá estratégias para divulgar e monetizar seu trabalho, atingindo milhares de fãs ávidos por suas criações. \n\nNão deixe seu talento adormecido! O mercado de quadrinhos está em expansão, e este é o momento perfeito para você brilhar. Com acesso vitalício, suporte contínuo e uma comunidade de aspirantes a artistas como você, não há limites para onde suas histórias podem chegar. Inscreva-se hoje e comece a dar vida às histórias que só você pode contar. Seu futuro como criador de quadrinhos começa agora!',
+        aboutProduct: 'Você é fascinado por mundos onde super-heróis, criaturas fantásticas e histórias emocionantes saltam das páginas? Imagine se essas ideias incríveis viessem da sua mente, ganhassem vida através de seus desenhos! Com nosso curso exclusivo, Como Desenhar Quadrinhos, isso não só é possível como garantido. Através de técnicas simples e eficazes, ensinamos você a criar e ilustrar suas próprias narrativas gráficas, passo a passo. Transforme seus rascunhos em obras de arte publicáveis.\n\nNão é só um curso, é uma jornada de descoberta. Aprenda a estruturar enredos cativantes, personagens memoráveis e cenários impressionantes. Desde conceitos básicos até técnicas avançadas de desenho e coloração digital, cobrimos tudo o que você precisa para se tornar um mestre na arte dos quadrinhos. Mais do que isso, você aprenderá estratégias para divulgar e monetizar seu trabalho, atingindo milhares de fãs ávidos por suas criações. \n\nNão deixe seu talento adormecido! O mercado de quadrinhos está em expansão, e este é o momento perfeito para você brilhar. Com acesso vitalício, suporte contínuo e uma comunidade de aspirantes a artistas como você, não há limites para onde suas histórias podem chegar. Inscreva-se hoje e comece a dar vida às histórias que só você pode contar. Seu futuro como criador de quadrinhos começa agora.',
 
         howTitle1: 'Quadrinhos Criativos',
         howDesc1: 'Aprenda a criar seus quadrinhos com o passo a passo para desenhar produzir e promover suas histórias incríveis e transforme ideias em arte.',
 
         howTitle2: 'Criação de Quadrinhos',
-        howDesc2: 'Aprenda a criar quadrinhos do zero, técnicas de desenho, narrativa visual, produção e estratégias de divulgação no mercado.',
+        howDesc2: 'Saiba como criar quadrinhos do zero, técnicas de desenho, narrativa visual, produção e estratégias de divulgação no mercado.',
 
         howTitle3: 'Quadrinhos Avançados',
         howDesc3: 'Descubra como transformar sua paixão por desenhos em realidade e aprenda a criar, produzir e divulgar suas histórias únicas.',
@@ -132,7 +132,7 @@ const entregasSpy = [
         bonusTitle2: 'Acesse conteúdos exclusivos e atualizados',
         bonusDesc2: 'Aprenda com lives ao vivo e tenha acesso a explicações completas.',
         bonusLil1Desc2: 'Assista a conteúdos atuais',
-        bonusLil2Desc2: 'Acompanhe lives exclusivas com conteúdos sempre atualizados.',
+        bonusLil2Desc2: 'Acompanhe lives exclusivas com conteúdos sempre atualizados',
         bonusLil3Desc2: 'Ganhe mais de 10h de material extra para acelerar seu aprendizado',
 
         bonusTitle3: '',
