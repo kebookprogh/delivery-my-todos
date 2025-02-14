@@ -23,7 +23,23 @@ const entregas = [
         id: 3,
         thumb: "https://kronus.kebook.com.br/assets/55bc81e1-d7c7-4867-a32c-90913c64962d/content-expert.png",
         archive: "19U2z9Eg7GlB4PhPA58oaFEfTYJNZJrSs"
+    },
+    {
+        id: 4,
+        thumb: "https://kronus.kebook.com.br/assets/82f99475-cd26-4050-afc5-ab08a5161227/content-expert.png",
+        archive: "1K0r7TvlwLLrZNVF6v7o39RRj_33aT48X"
+    },
+    {
+        id: 5,
+        thumb: "https://kronus.kebook.com.br/assets/55c25079-1155-4fbc-8cb9-7d950a7f5b7d/content-expert.png",
+        archive: "1cyj7YoRYqHVdLcmWVjToyvoadcBlAF-y"
+    },
+    {
+        id: 6,
+        thumb: "https://kronus.kebook.com.br/assets/cdcb5c8d-24ba-4783-bb99-99fa0264b07d/content-expert.png",
+        archive: "1xmy_gz4LFdQkBM1J_-RSH7Ob21aWJfln"
     }
+
 ]
 </script>
 
