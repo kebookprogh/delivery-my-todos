@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import CarouselDos from '@/components/organism/carouselDos/index.vue'
+import CarouselSpy from '@/components/organism/carouselSpy/index.vue'
 import TeacherImg from '@/components/mol/teacherImg/index.vue'
 </script>
 
 <template>
     <section class="background flex items-center justify-center space-x-14 h-[100vh]">
         <TeacherImg />
-        <CarouselDos />
+        <CarouselSpy />
         <TeacherImg />
     </section>
 </template>
