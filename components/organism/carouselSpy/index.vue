@@ -108,29 +108,30 @@ const entregasSpy = [
         subtitle: 'Transforme ideias em quadrinhos épicos! Aprenda a criar, ilustrar e publicar suas histórias com nosso curso passo a passo. Torne-se um artista reconhecido',
 
         aboutTitle: 'Aprenda a criar quadrinhos: do esboço ao sucesso em poucos passos',
-        aboutProduct: 'Liberte o Artista de Quadrinhos em Você!\n\nVocê é fascinado por mundos onde super-heróis, criaturas fantásticas e histórias emocionantes saltam das páginas? Imagine se essas ideias incríveis viessem da SUA mente, ganhassem vida através de SEUS desenhos! Com nosso curso exclusivo, \"Desenhe e Anime Seus Quadrinhos\", isso não só é possível como garantido. Através de técnicas simples e eficazes, ensinamos você a criar e ilustrar suas próprias narrativas gráficas, passo a passo. Transforme seus rascunhos em obras de arte publicáveis!\n\nNão é só um curso, é uma jornada de descoberta. Aprenda a estruturar enredos cativantes, personagens memoráveis e cenários impressionantes. Desde conceitos básicos até técnicas avançadas de desenho e coloração digital, cobrimos tudo o que você precisa para se tornar um mestre na arte dos quadrinhos. Mais do que isso, você aprenderá estratégias para divulgar e monetizar seu trabalho, atingindo milhares de fãs ávidos por suas criações. \n\nNão deixe seu talento adormecido! O mercado de quadrinhos está em expansão, e este é o momento perfeito para você brilhar. Com acesso vitalício, suporte contínuo e uma comunidade de aspirantes a artistas como você, não há limites para onde suas histórias podem chegar. Inscreva-se hoje e comece a dar vida às histórias que só você pode contar. Seu futuro como criador de quadrinhos começa agora!',
+        aboutProduct: 'Você é fascinado por mundos onde super-heróis, criaturas fantásticas e histórias emocionantes saltam das páginas? Imagine se essas ideias incríveis viessem da SUA mente, ganhassem vida através de SEUS desenhos! Com nosso curso exclusivo, \"Desenhe e Anime Seus Quadrinhos\", isso não só é possível como garantido. Através de técnicas simples e eficazes, ensinamos você a criar e ilustrar suas próprias narrativas gráficas, passo a passo. Transforme seus rascunhos em obras de arte publicáveis!\n\nNão é só um curso, é uma jornada de descoberta. Aprenda a estruturar enredos cativantes, personagens memoráveis e cenários impressionantes. Desde conceitos básicos até técnicas avançadas de desenho e coloração digital, cobrimos tudo o que você precisa para se tornar um mestre na arte dos quadrinhos. Mais do que isso, você aprenderá estratégias para divulgar e monetizar seu trabalho, atingindo milhares de fãs ávidos por suas criações. \n\nNão deixe seu talento adormecido! O mercado de quadrinhos está em expansão, e este é o momento perfeito para você brilhar. Com acesso vitalício, suporte contínuo e uma comunidade de aspirantes a artistas como você, não há limites para onde suas histórias podem chegar. Inscreva-se hoje e comece a dar vida às histórias que só você pode contar. Seu futuro como criador de quadrinhos começa agora!',
 
         howTitle1: 'Quadrinhos Criativos',
-        howDesc1: 'Aprenda a criar seus quadrinhos! Curso passo a passo para desenhar, produzir e promover suas histórias incríveis. Transforme ideias em arte!',
+        howDesc1: 'Aprenda a criar seus quadrinhos com o passo a passo para desenhar produzir e promover suas histórias incríveis e transforme ideias em arte.',
 
         howTitle2: 'Criação de Quadrinhos',
-        howDesc2: 'Aprenda a criar quadrinhos do zero: técnicas de desenho, narrativa visual, produção e estratégias de divulgação no mercado',
+        howDesc2: 'Aprenda a criar quadrinhos do zero, técnicas de desenho, narrativa visual, produção e estratégias de divulgação no mercado.',
 
         howTitle3: 'Quadrinhos Avançados',
-        howDesc3: 'Descubra como transformar sua paixão em realidade com nosso curso de desenho de quadrinhos! Aprenda passo a passo a criar, produzir e divulgar suas histórias únicas.',
+        howDesc3: 'Descubra como transformar sua paixão por desenhos em realidade e aprenda a criar, produzir e divulgar suas histórias únicas.',
 
         howTitle4: 'Quadrinhos Vívidos',
-        howDesc4: 'Desperte seu talento e traga suas histórias à vida com nosso curso de criação de quadrinhos! Aprenda a desenhar, produzir e divulgar suas obras de forma eficaz.',
+        howDesc4: 'Desperte seu talento e traga suas histórias à vida com método de aprendizado que vai do esboço à publicação.',
 
-        bonusTitle1: 'Evite erros que prejudicam seu sucesso',
+        // nao tem ponto no titulo
+        bonusTitle1: 'Evite erros que prejudicam seus desenhos',
         bonusDesc1: 'Descubra os deslizes mais comuns e aprenda a se destacar.',
         bonusLil1Desc1: 'Aprenda a identificar e corrigir os erros mais comuns.',
         bonusLil2Desc1: 'Descubra como ser bem visto e conquistar mais oportunidades.',
         bonusLil3Desc1: 'Melhore sua abordagem e evite armadilhas que atrapalham seu crescimento',
 
-        bonusTitle2: 'Acesse conteúdos exclusivos e atualizados!',
-        bonusDesc2: 'Acesse conteúdos exclusivos e atualizados',
-        bonusLil1Desc2: 'Aprenda com lives ao vivo e tenha acesso a explicações completas.',
+        bonusTitle2: 'Acesse conteúdos exclusivos e atualizados',
+        bonusDesc2: 'Aprenda com lives ao vivo e tenha acesso a explicações completas.',
+        bonusLil1Desc2: 'Assista a conteúdos atuais',
         bonusLil2Desc2: 'Acompanhe lives exclusivas com conteúdos sempre atualizados.',
         bonusLil3Desc2: 'Ganhe mais de 10h de material extra para acelerar seu aprendizado',
 
