@@ -15,42 +15,42 @@ const entregasExcel = [
         thumb: "https://kronus.kebook.com.br/assets/3cd3d543-0b65-4cff-a2c4-8ec2dc41678c/content-expert.png",
         archive: "",
 
-        title: '',
+        title: 'Aprenda a criar planilhas, controlar estoque e finanças, calcular comissões e mais. Torne-se um expert em análise de dados',
 
-        subtitle: '',
+        subtitle: 'Transforme números em sucesso e descubra como Excel pode elevar seu potencial analítico e gerencial desde iniciante até avançado',
 
-        aboutTitle: '',
-        aboutProduct: '',
+        aboutTitle: 'Desbloqueie o Potencial do Excel: Técnicas Avançadas e Práticas',
+        aboutProduct: 'Descubra o caminho para a eficiência e destaque no mercado com o nosso Curso de Excel Online! Se o segredo da produtividade é dominar as ferramentas certas, estar preparado para todas as demandas do Office irá elevar sua performance profissional a patamares inimagináveis! Neste curso, você irá aprender tudo sobre planilhas, gestão de estoques, controle financeiro e muito mais.\n\nImagine ser capaz de agilizar todos os seus processos, criando relatórios detalhados, gráficos impactantes e calculando taxas e comissões com precisão cirúrgica. Com nosso treinamento, essa realidade está ao seu alcance! Não perca a oportunidade de adquirir habilidades críticas que elevarão seu valor no mercado de trabalho, tornado-o indispensável em qualquer equipe.\n\nNão deixe para depois a chance de transformar sua carreira com conhecimentos que colocarão você à frente de muitos profissionais. Inscreva-se agora e garanta acesso imediato aos conteúdos e técnicas que têm o poder de abrir novos horizontes em sua vida profissional. É a sua vez de brilhar com excelência no uso do Excel!\n',
 
-        howTitle1: '',
-        howDesc1: '',
+        howTitle1: 'Gestão de Qualidade',
+        howDesc1: 'Domine diferentes tipos de planilhas profissionais, amplamente utilizadas por administradores, gestores e executivos, para otimizar a gestão e o controle de qualidade.',
 
-        howTitle2: '',
-        howDesc2: '',
+        howTitle2: 'Do Básico ao Avançado',
+        howDesc2: 'Explore as diversas ferramentas e funções do Excel, saindo rapidamente do nível iniciante para o avançado de forma simples e eficiente.',
 
-        howTitle3: '',
-        howDesc3: '',
+        howTitle3: 'Habilidades Profissionais',
+        howDesc3: 'Aprenda a inserir, localizar, filtrar, editar e proteger dados em planilhas, gráficos, tabelas e muito mais, para aprimorar suas habilidades profissionais',
 
-        howTitle4: '',
-        howDesc4: '',
+        howTitle4: 'Potencial do Excel',
+        howDesc4: 'Descubra o poder do Excel com nosso curso online! Aprenda a criar planilhas detalhadas, controlar estoques e gastos, gerenciar clientes, calcular comissões e muito mais',
 
-        bonusTitle1: '',
-        bonusDesc1: '',
-        bonusLil1Desc1: '',
-        bonusLil2Desc1: '',
-        bonusLil3Desc1: '',
+        bonusTitle1: 'Masterclass: Torne-se um Consultor Expert em Excel',
+        bonusDesc1: 'Descubra os passos essenciais para ganhar dinheiro oferecendo serviços profissionais em Excel.',
+        bonusLil1Desc1: 'Entenda o mercado e a alta demanda por serviços de Excel',
+        bonusLil2Desc1: 'Domine os conhecimentos necessários para atuar na área',
+        bonusLil3Desc1: 'Aprenda a analisar e se destacar da concorrência',
 
-        bonusTitle2: '',
-        bonusDesc2: '',
-        bonusLil1Desc2: '',
-        bonusLil2Desc2: '',
-        bonusLil3Desc2: '',
+        bonusTitle2: 'Domine Tudo Sobre Gráficos Dinâmicos no Excel',
+        bonusDesc2: 'Um estudo completo e detalhado sobre gráficos dinâmicos, com exemplos práticos para você se destacar.',
+        bonusLil1Desc2: 'Utilize controles de formulários e ActiveX em gráficos',
+        bonusLil2Desc2: 'Explore diversos tipos de gráficos e suas aplicações',
+        bonusLil3Desc2: 'Aprenda a criar Dashboards profissionais e impactantes',
 
-        bonusTitle3: '',
-        bonusDesc3: '',
-        bonusLil1Desc3: '',
-        bonusLil2Desc3: '',
-        bonusLil3Desc3: '',
+        bonusTitle3: 'Infográficos Impactantes para Apresentações no PowerPoint',
+        bonusDesc3: 'Aprenda a usar as ferramentas do PowerPoint para criar apresentações impecáveis e cheias de impacto.',
+        bonusLil1Desc3: 'Mais de 4 horas e meia de conteúdo prático e detalhado',
+        bonusLil2Desc3: 'Domine os conceitos-chave para criar infográficos de alto nível',
+        bonusLil3Desc3: 'Descubra como fazer apresentações profissionais com diversas ferramentas poderosas',
     },
     {//Quero Aprender Dashboard
         id: 2,
@@ -58,24 +58,24 @@ const entregasExcel = [
         thumb: "https://kronus.kebook.com.br/assets/c6aa3ce7-c296-43a4-bc75-1b21b95d4b5a/content-expert.png",
         archive: "",
 
-        title: '',
+        title: 'Aula para Criar Dashboards Dinâmicos no Excel Transforme Dados em Decisões ',
 
-        subtitle: '',
+        subtitle: 'Transforme seu Excel e aprenda a criar dashboards dinâmicos e torne a análise de dados rápida e eficaz. Eleve suas habilidades e impulsione sua carreira',
 
-        aboutTitle: '',
-        aboutProduct: '',
+        aboutTitle: 'Transforme Dados em Decisões com Dashboards no Excel',
+        aboutProduct: 'Descubra o poder do Excel e transforme suas planilhas em dashboards dinâmicos que simplificam decisões! Em nossa aula exclusiva, você será guiado passo a passo na arte de construir dashboards visuais e interativos. Esqueça aquelas horas perdidas tentando interpretar números complexos e aprenda a criar ferramentas que destacam o essencial, agilizando sua análise de dados.\n\nEsteja você buscando impressionar na sua próxima apresentação de negócios ou apenas quer otimizar a gestão de seus projetos pessoais, nosso aula é a chave para desbloquear todo o potencial do Excel. Com técnicas práticas e eficazes, ensinamos você a transformar dados brutos em informações claras e precisas, faciltando a interpretação e a tomada de decisões.\n\nNão perca a chance de elevar seu nível profissional com habilidades de alto valor no mercado. Inscreva-se agora e comece a construir dashboards que não apenas organizam, mas também revelam caminhos e soluções, todas as vezes que você abrir sua planilha. Vagas limitadas para um aprendizado que colocará você à frente no mundo dos dados!',
 
-        howTitle1: '',
-        howDesc1: '',
+        howTitle1: 'Dashboards Eficientes',
+        howDesc1: 'Aprenda a criar dashboards no Excel para uma análise de dados rápida, clara e eficiente, e transforme suas planilhas',
 
-        howTitle2: '',
-        howDesc2: '',
+        howTitle2: 'Dashboards Dinâmicos',
+        howDesc2: 'Descubra técnicas de Excel para criar dashboards eficazes, utilizando gráficos interativos e funções avançadas, tornando suas análises de dados claras e práticas',
 
-        howTitle3: '',
-        howDesc3: '',
+        howTitle3: 'Excel Avançado',
+        howDesc3: 'Aprenda a transformar conhecimentos do aula em dashboards dinâmicos no Excel, facilitando a análise e visibilidade dos seus dados, e torne suas planilhas incrivelmente eficientes',
 
-        howTitle4: '',
-        howDesc4: '',
+        howTitle4: 'Excel Dinâmico',
+        howDesc4: 'Descubra as técnicas para transformar suas planilhas: aprenda a criar dashboards no Excel e visualize seus dados de forma clara e eficiente',
 
         bonusTitle1: '',
         bonusDesc1: '',
@@ -101,24 +101,24 @@ const entregasExcel = [
         thumb: "https://kronus.kebook.com.br/assets/a6f95149-ab00-49be-9d75-5690a4581d20/content-expert.png",
         archive: "",
 
-        title: '',
+        title: 'Domine a Função SE: Acelere sua Produtividade em Excel Sem Estresse',
 
-        subtitle: '',
+        subtitle: 'Domine a função SE no Excel, otimize análises e impulsione sua eficiência! Torne-se um expert e economize horas com nossas técnicas exclusivas.',
 
-        aboutTitle: '',
-        aboutProduct: '',
+        aboutTitle: 'Domine a Função SE: Acelere Sua Produtividade em Excel',
+        aboutProduct: 'Descubra o segredo para dominar análises complexas e incrementar sua produtividade com a nossa aula revolucionário: “Tudo sobre Função SE”! Esta aula é a chave mágica que abrirá as portas para você entender de maneira simples e eficaz como utilizar a Função SE em Excel, tornando-se um mestre na criação de comparações lógicas. Não perca mais tempo com dúvidas e indecisões — se você busca eficiência, este é o caminho!\n\nImagine poder, em poucas horas, adquirir habilidades que muitos levam anos para desenvolver. Com técnicas passo a passo, nossa aula é desenhado para fornecer uma aprendizagem acelerada que se adapta ao seu ritmo. Ao dominar a Função SE, você não apenas aumenta sua capacidade de resolver problemas complexos, mas também se destaca no mercado de trabalho. Esta é a sua chance de brilhar e mostrar seu verdadeiro potencial!\n\nNão fique para trás na corrida pela excelência profissional. Garanta já sua vaga nesse curso transformador e comece a transformar seu futuro hoje mesmo! Com exemplos práticos, você vai aprender a aplicar a Função SE de forma surpreendentemente simples e eficiente, garantindo mais tempo e melhores resultados em seus projetos. A oportunidade está batendo à sua porta, abra-a para um mundo de possibilidades e sucesso. Inscreva-se agora e dê o primeiro passo para se tornar um verdadeiro especialista em Excel!',
 
-        howTitle1: '',
-        howDesc1: '',
+        howTitle1: 'Exercícios Práticos',
+        howDesc1: 'Aprenda fazendo! Resolva exercícios para consolidar os conceitos da aula e ganhe confiança na aplicação do seu conhecimento.',
 
-        howTitle2: '',
-        howDesc2: '',
+        howTitle2: 'Capacitação Profissional',
+        howDesc2: 'Aprenda com especialistas, adquira as habilidades necessárias para o mercado de trabalho e alcance o emprego dos seus sonhos.',
 
-        howTitle3: '',
-        howDesc3: '',
+        howTitle3: 'Aperfeiçoamento em Excel',
+        howDesc3: 'Entenda tudo sobre a função SE, avance seus conhecimentos sobre Excel e aproxime-se de um uso completo e eficiente da ferramenta.',
 
-        howTitle4: '',
-        howDesc4: '',
+        howTitle4: 'Domine SE',
+        howDesc4: 'Descubra como dominar a função SE no Excel! Simplifique suas comparações lógicas, aumente sua produtividade e economize tempo com nosso infoproduto exclusivo.',
 
         bonusTitle1: '',
         bonusDesc1: '',
