@@ -6,9 +6,9 @@ import CarouselSpy from '@/components/organism/carouselSpy/index.vue'
 
 <template>
     <section class="background flex items-center justify-center space-x-14 h-[100vh]">
-        <TeacherImg />
+        <TeacherImg :teacherImg="'https://kronus.kebook.com.br/assets/a37d7977-faf8-46e2-be95-5cae3c98b7d7/expert-top.png.webp?format=webp&quality=80'"/>
         <CarouselSpy />
-        <TeacherImg />
+        <TeacherImg :teacherImg="'https://kronus.kebook.com.br/assets/a37d7977-faf8-46e2-be95-5cae3c98b7d7/expert-top.png.webp?format=webp&quality=80'"/>
     </section>
 </template>
 

@@ -5,9 +5,9 @@ import TeacherImg from '@/components/mol/teacherImg/index.vue'
 
 <template>
     <section class="background flex items-center justify-center space-x-14 h-[100vh]">
-        <TeacherImg />
+        <TeacherImg :teacherImg="'https://kronus.kebook.com.br/assets/72a6aa8b-1801-4592-9a6c-06948694cfcb/expert-top.png.webp?format=webp&quality=80'"/>
         <CarouselExcel />
-        <TeacherImg />
+        <TeacherImg :teacherImg="'https://kronus.kebook.com.br/assets/72a6aa8b-1801-4592-9a6c-06948694cfcb/expert-top.png.webp?format=webp&quality=80'"/>
     </section>
 </template>
 
