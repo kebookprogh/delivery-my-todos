@@ -13,7 +13,7 @@ const entregasExcel = [
         id: 1,
         productName: 'Curso de Excel Online',
         thumb: "https://kronus.kebook.com.br/assets/3cd3d543-0b65-4cff-a2c4-8ec2dc41678c/content-expert.png",
-        archive: "",
+        archive: "1xjJyK6Tfkg1t7473q6q7O_9TWXZUHaxM",
 
         title: 'Aprenda a criar planilhas, controlar estoque e finanças, calcular comissões e mais. Torne-se um expert em análise de dados',
 
@@ -56,7 +56,7 @@ const entregasExcel = [
         id: 2,
         productName: 'Aula: Como Criar um Dashboard',
         thumb: "https://kronus.kebook.com.br/assets/c6aa3ce7-c296-43a4-bc75-1b21b95d4b5a/content-expert.png",
-        archive: "",
+        archive: "1H7iLqHAClyrw8s2oaXtqyAt38YraIUVP",
 
         title: 'Aula para Criar Dashboards Dinâmicos no Excel Transforme Dados em Decisões ',
 
@@ -99,7 +99,7 @@ const entregasExcel = [
         id: 3,
         productName: 'Aula: Tudo sobre Função SE',
         thumb: "https://kronus.kebook.com.br/assets/a6f95149-ab00-49be-9d75-5690a4581d20/content-expert.png",
-        archive: "",
+        archive: "17knQ2xsqN3hrvYb8wz0jE8pzmH30mGPI",
 
         title: 'Domine a Função SE: Acelere sua Produtividade em Excel Sem Estresse',
 
@@ -142,7 +142,7 @@ const entregasExcel = [
         id: 4,
         productName: 'Aula: Domine o ProcV',
         thumb: "https://kronus.kebook.com.br/assets/b8c4afd0-d80c-4597-ad71-a0d687877734/content-expert.png",
-        archive: "",
+        archive: "1_cNpFqsOuj2fp3YaMwodUF-PdXbicr9J",
 
         title: 'Domínio do ProcV: Acelere Suas Análises em Planilhas',
 
@@ -185,7 +185,7 @@ const entregasExcel = [
         id: 5,
         productName: 'Teste de Excel para Entrevista',
         thumb: "https://kronus.kebook.com.br/assets/2e8e8220-c303-416b-80c6-3b138b7de4d7/content-expert.png",
-        archive: "",
+        archive: "1ARQXx1msslr6Mwv_sgBqfObf5Uk_hwDK",
 
         title: 'Prepare-se para qualquer vaga com Teste de Excel em Entrevistas de Emprego',
 
@@ -228,7 +228,7 @@ const entregasExcel = [
         id: 6,
         productName: 'Aula: Excel para Assistente Adminsitrativo',
         thumb: "https://kronus.kebook.com.br/assets/a9afd1ee-5796-440c-9be8-84f55052d7c8/content-expert.png",
-        archive: "",
+        archive: "1QmRXfWgWgxg8imLoG9qh3OMyhLfTeMdG",
 
         title: 'Excel para Assistente Administrativo: Soluções Rápidas e Designs Impactantes!',
 
@@ -271,7 +271,7 @@ const entregasExcel = [
         id: 7,
         productName: 'Curso de Planilhas Google',
         thumb: "https://kronus.kebook.com.br/assets/644f8f10-a61e-41d7-a32c-ece14498f860/content-expert.png",
-        archive: "",
+        archive: "1TA4jTPaBPCQ32Z-hU_1EMgBwi0NbSHaO",
 
         title: '',
 
