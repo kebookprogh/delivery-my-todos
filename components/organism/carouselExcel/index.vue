@@ -144,24 +144,24 @@ const entregasExcel = [
         thumb: "https://kronus.kebook.com.br/assets/b8c4afd0-d80c-4597-ad71-a0d687877734/content-expert.png",
         archive: "",
 
-        title: '',
+        title: 'Domínio do ProcV: Acelere Suas Análises em Planilhas',
 
-        subtitle: '',
+        subtitle: 'Desbloqueie o poder do ProcV e descubra como a função ProcV pode transformar suas planilhas e economizar horas de trabalho',
 
-        aboutTitle: '',
-        aboutProduct: '',
+        aboutTitle: 'ProcV: Descubra o Segredo para Agilizar Análises em Grandes Dados',
+        aboutProduct: 'Você está pronto para transformar a maneira como lida com dados em Excel? Este infoproduto não é apenas uma aula, é a chave para desbloquear um universo de eficiência e precisão nas suas planilhas eletrônicas.\n\nImagine poder localizar qualquer informação em segundos, mesmo em meio a toneladas de dados! Com a aula, você aprenderá a utilizar a função ProcV para organizar, pesquisar e analisar dados com uma habilidade que você pensou que só especialistas possuíam. As técnicas e segredos revelados nessa aula são tão poderosos que você se tornará o guru do Excel no seu ambiente de trabalho!\n\nNão perca mais tempo em tarefas repetitivas e cansativas! Junte-se à legião de profissionais que estão elevando suas carreiras com nosso método exclusivo. Inscreva-se agora e seja você também um expert em pesquisas de dados com Excel. As vagas são limitadas, então garanta já sua posição nessa jornada de conquista e sucesso profissional!',
 
-        howTitle1: '',
-        howDesc1: '',
+        howTitle1: 'Desvende o ProcV',
+        howDesc1: 'Aprenda a usar a função ProcV no Excel e agilize suas pesquisas em planilhas extensas de forma eficaz e rápida',
 
-        howTitle2: '',
-        howDesc2: '',
+        howTitle2: 'Capacitação em Excel',
+        howDesc2: 'Aprenda a utilizar essa função essencial do Excel, prepare-se e ganhe vantagem sobre seus concorrentes nas entrevistas de emprego.',
 
-        howTitle3: '',
-        howDesc3: '',
+        howTitle3: 'Exercícios Práticos',
+        howDesc3: 'Aprenda a utilizar a função ProcV por meio de exercícios e exemplos práticos, guiados por um especialista no assunto.',
 
-        howTitle4: '',
-        howDesc4: '',
+        howTitle4: 'ProcV Eficiente',
+        howDesc4: 'Aprenda a usar a função ProcV e transforme suas habilidades em planilhas: torne-se um mestre na busca e organização de dados',
 
         bonusTitle1: '',
         bonusDesc1: '',
@@ -187,24 +187,24 @@ const entregasExcel = [
         thumb: "https://kronus.kebook.com.br/assets/2e8e8220-c303-416b-80c6-3b138b7de4d7/content-expert.png",
         archive: "",
 
-        title: '',
+        title: 'Prepare-se para qualquer vaga com Teste de Excel em Entrevistas de Emprego',
 
-        subtitle: '',
+        subtitle: 'Conquiste seu próximo emprego com confiança prepare-se para testes de Excel e destaque-se na entrevista',
 
-        aboutTitle: '',
-        aboutProduct: '',
+        aboutTitle: 'Garanta sua posição, aprimore suas habilidades para testes de Excel em entrevistas',
+        aboutProduct: 'Você está prestes a transformar suas entrevistas de emprego com nossa aula exclusiva \"Teste de Excel para Entrevista de Emprego\"! Imagine-se entrando confiante em qualquer sala de entrevistas, pronto para impressionar os recrutadores com suas habilidades avançadas em Excel. Nossa aula é projetada para garantir que você não apenas entenda, mas também aplique as funções e fórmulas mais complexas do Excel com facilidade e precisão.\n\nNesta aula, você aprenderá através de métodos interativos, com simulações de testes reais usados por grandes empresas. A cada módulo, uma nova porta se abre para aumentar suas chances de conquistar a vaga dos seus sonhos. Não importa se você é um iniciante ou alguém que já tem familiaridade com o programa; nosso conteúdo é adaptado para todos os níveis. Preparamos você para brilhar nas avaliações técnicas, garantindo que cada clique e cada função usada sejam um passo a mais na sua jornada profissional.\n\nNão perca a oportunidade de se destacar no mercado de trabalho. Inscreva-se agora e transforme sua carreira com o poder do Excel em entrevistas de emprego. As vagas são limitadas e o sucesso espera por aqueles que se capacitam. Dê esse passo decisivo na sua carreira, inscreva-se e prove seu valor para os recrutadores com a excelência que só a nossa aula oferece.',
 
-        howTitle1: '',
-        howDesc1: '',
+        howTitle1: 'Destaque no Mercado',
+        howDesc1: 'Torne-se uma referência no mercado de trabalho ao aprimorar suas habilidades e dominar as ferramentas do Excel',
 
-        howTitle2: '',
-        howDesc2: '',
+        howTitle2: 'Aprenda Conceitos Básicos',
+        howDesc2: 'Revise os fundamentos do Excel para consolidar sua base e estar preparado para avançar em tópicos mais complexos com confiança',
 
-        howTitle3: '',
-        howDesc3: '',
+        howTitle3: 'Método Eficiente',
+        howDesc3: 'Aprenda Excel de forma fácil, prática e completa com um método exclusivo que garante eficiência no domínio das ferramentas',
 
-        howTitle4: '',
-        howDesc4: '',
+        howTitle4: 'Atalhos do Excel',
+        howDesc4: 'Aprimore suas habilidades em Excel e impressione em qualquer entrevista de emprego! Garanta já seu lugar no nosso curso prático',
 
         bonusTitle1: '',
         bonusDesc1: '',
@@ -230,24 +230,24 @@ const entregasExcel = [
         thumb: "https://kronus.kebook.com.br/assets/a9afd1ee-5796-440c-9be8-84f55052d7c8/content-expert.png",
         archive: "",
 
-        title: '',
+        title: 'Excel para Assistente Administrativo: Soluções Rápidas e Designs Impactantes!',
 
-        subtitle: '',
+        subtitle: 'Aprenda Excel e transforme seus relatórios em ferramentas de decisão precisas e visualmente impactantes. Torne-se indispensável na administração',
 
-        aboutTitle: '',
-        aboutProduct: '',
+        aboutTitle: 'Acelere sua carreira com Excel para Assistentes Administrativos! Aprenda a criar soluções eficientes e visuais impressionantes.',
+        aboutProduct: 'Descubra o poder do Excel para transformar suas capacidades administrativas e elevar seu perfil profissional com nosso curso exclusivo de Excel para Assistente Administrativo! Imagine criar relatórios claros e gráficos envolventes com apenas alguns cliques. Tudo isso enquanto economiza tempo e aumenta sua produtividade de maneira significativa. Esse curso é a chave para você abrir portas em sua carreira e conquistar reconhecimento no ambiente de trabalho!\n\nCom metodologias simplificadas e uma abordagem passo a passo, você vai aprender a utilizar todas as funcionalidades essenciais do Excel. Desde a criação de tabelas dinâmicas até o desenvolvimento de macros complexas, você estará equipado para oferecer soluções inovadoras e visualmente impactantes. Evolua na sua carreira ao capacitar-se para tomar decisões baseadas em análises precisas e apresentações de dados competentes que impresionam superiores e colegas de trabalho.\n\nNão perca a chance de ser um profissional altamente qualificado e disputado no mercado! As vagas para o curso são limitadas, garantindo atenção personalizada e aprendizado efetivo. Faça sua inscrição agora e prepare-se para ser o especialista em Excel que todos desejam ter em sua equipe. Seu futuro brilhante como assistente administrativo começa aqui!',
 
-        howTitle1: '',
-        howDesc1: '',
+        howTitle1: 'Excel Administrativo',
+        howDesc1: 'Aperfeiçoe suas habilidades administrativas com nosso curso de Excel, ideal para criar soluções eficazes e apresentações impactantes',
 
-        howTitle2: '',
-        howDesc2: '',
+        howTitle2: 'Melhore seu Excel',
+        howDesc2: 'Aprenda as funções, recursos e ferramentas essenciais do Excel e ganhe um diferencial competitivo no seu trabalho administrativo.',
 
-        howTitle3: '',
-        howDesc3: '',
+        howTitle3: 'Otimize Prazos',
+        howDesc3: 'Aprenda Excel para assistentes administrativos, otimize tarefas e crie relatórios visualmente impactantes para soluções eficazes',
 
-        howTitle4: '',
-        howDesc4: '',
+        howTitle4: 'Rotinas Administrativas',
+        howDesc4: 'Descubra como utilizar o Excel para criar relatórios precisos, gráficos profissionais e otimizar suas tarefas do dia a dia.',
 
         bonusTitle1: '',
         bonusDesc1: '',
@@ -359,36 +359,36 @@ const entregasExcel = [
         thumb: "https://kronus.kebook.com.br/assets/8716a1fd-9232-4dcc-bd5d-0c67955c4904/content-expert.png",
         archive: "",
 
-        title: '',
+        title: 'Google Planilhas Sem Segredos: Crie Tabelas, Gráficos e Relatórios Profissionais em Minutos',
 
-        subtitle: '',
+        subtitle: 'Transforme dados em insights poderosos! Aprenda a criar planilhas, gráficos e relatórios incríveis no Google Planilhas.',
 
-        aboutTitle: '',
-        aboutProduct: '',
+        aboutTitle: 'Aprenda Google Planilhas de forma fácil e rápida para criar relatórios incríveis!',
+        aboutProduct: '\nJá imaginou transformar números e dados em informações valiosas com apenas alguns cliques? Com o Curso de Planilhas Google, você aprenderá a criar planilhas inteligentes, gráficos impressionantes e relatórios automatizados, sem precisar ser um expert em tecnologia. Chega de perder tempo com fórmulas complicadas ou tabelas confusas!\nAqui, você descobrirá os segredos do Google Planilhas, desde o básico até técnicas avançadas para agilizar tarefas, organizar informações e colaborar em tempo real com sua equipe. Seja para trabalho, negócios ou projetos pessoais, você terá em mãos um conhecimento poderoso para aumentar sua produtividade e se destacar no mercado.\nNão fique para trás! Empresas buscam profissionais que dominam ferramentas digitais, e este curso é sua chance de ganhar tempo, eficiência e novas oportunidades. Inscreva-se agora e leve suas habilidades para o próximo nível',
 
-        howTitle1: '',
-        howDesc1: '',
+        howTitle1: 'Primeiros Passos',
+        howDesc1: 'Descubra o que é o Planilhas Google, como acessá-lo e domine conceitos básicos como células, planilhas e tabelas. Aprenda também a utilizar as funções essenciais da ferramenta de forma eficiente.',
 
-        howTitle2: '',
-        howDesc2: '',
+        howTitle2: 'Explore o Planilhas Google',
+        howDesc2: 'Aprenda a aplicar recursos inteligentes como filtros e formatação condicional, entenda fórmulas e funções práticas, e explore os recursos avançados e exclusivos do Planilhas Google.',
 
-        howTitle3: '',
-        howDesc3: '',
+        howTitle3: 'Habilidades Avançadas',
+        howDesc3: 'Aprenda a criar gráficos profissionais, tabelas personalizadas e relatórios dinâmicos. Colabore em tempo real com sua equipe e descubra como importar e tratar dados de forma eficiente.',
 
-        howTitle4: '',
-        howDesc4: '',
+        howTitle4: 'Dados Organizados',
+        howDesc4: 'Aprenda a criar arquivos, importar dados de diferentes fontes e formatá-los de maneira eficiente para garantir clareza e organização em suas planilhas.',
 
-        bonusTitle1: '',
-        bonusDesc1: '',
-        bonusLil1Desc1: '',
-        bonusLil2Desc1: '',
-        bonusLil3Desc1: '',
+        bonusTitle1: 'Criação de Projetos com Planilhas Google: Do Básico ao Avançado',
+        bonusDesc1: 'Amplie seus conhecimentos e alcance os melhores resultados dominando as funcionalidades avançadas das Planilhas Google.',
+        bonusLil1Desc1: 'Aprenda tudo sobre formulários, cadastro, exclusão, consulta e atualização de dados',
+        bonusLil2Desc1: 'Domine o gravador de macros, a criação de relatórios e o desenvolvimento de interfaces de projetos',
+        bonusLil3Desc1: 'Explore os recursos automatizados e personalizáveis do AppScript de forma exclusiva e descomplicada',
 
-        bonusTitle2: '',
-        bonusDesc2: '',
-        bonusLil1Desc2: '',
-        bonusLil2Desc2: '',
-        bonusLil3Desc2: '',
+        bonusTitle2: 'Google Forms e Planilhas Google: Análise de Dados com Precisão',
+        bonusDesc2: 'Aprenda a usar essas ferramentas em conjunto para analisar dados com mais eficiência e tomar decisões mais assertivas.',
+        bonusLil1Desc2: 'Domine todos os detalhes do Google Forms e aproveite ao máximo suas funcionalidades',
+        bonusLil2Desc2: 'Descubra como integrar o Google Forms com o Planilhas Google para análises de dados poderosas',
+        bonusLil3Desc2: 'Evolua suas habilidades com um conteúdo inédito, completo e exclusivo',
 
         bonusTitle3: '',
         bonusDesc3: '',
@@ -412,7 +412,7 @@ const closeModal = () => {
 </script>
 <template>
     <section class="flex flex-col items-center justify-center mt-10">
-        <AtomTitle :title="'Copys do Spyked'" />
+        <AtomTitle :title="'Copys do Michel'" />
         <div class="w-64 h-64">
             <Carousel>
                 <CarouselContent>
