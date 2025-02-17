@@ -11,7 +11,7 @@ const experts = [{
     id: 2,
     name: 'Michel',
     image: 'https://kronus.kebook.com.br/assets/dbdfe559-701c-4fba-8759-b124ffb171ab/expert-mid.png.webp?format=webp&quality=80',
-    path: '/michel'
+    path: '/michels'
 },]
 </script>
 
