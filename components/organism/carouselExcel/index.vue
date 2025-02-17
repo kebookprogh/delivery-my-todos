@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import AtomTitle from '~/components/atoms/atomTitle/atomTitle.vue';
-import AtomParagraph from '~/components/atoms/atomParagraph/paragraph.vue';
 import {
     Carousel,
     CarouselContent,
@@ -9,80 +8,407 @@ import {
     CarouselPrevious,
 } from '@/components/ui/carousel'
 
-const entregasSpy = [
-    {
+const entregasExcel = [
+    {//Curso de Excel Online
         id: 1,
-        productName: 'Como Desenhar',
-        thumb: "https://kronus.kebook.com.br/assets/8926ea06-fcf6-47c0-9c3a-440c1a3478a6/content-expert.png",
-        archive: "1dpm-5fsVt0hRNwtjlBVHGJFkndZ_Jv3a",
-        title: 'Desbloqueie o Artista: Técnicas e Práticas para Excelência em Desenho!',
+        productName: 'Curso de Excel Online',
+        thumb: "https://kronus.kebook.com.br/assets/3cd3d543-0b65-4cff-a2c4-8ec2dc41678c/content-expert.png",
+        archive: "",
 
-        subtitle: 'Transforme suas ideias em arte: aprenda técnicas de desenho e pratique com experts! Torne-se um desenhista habilidoso e criativo.',
+        title: '',
 
-        aboutTitle: 'Aprenda a desenhar! Curso completo: técnicas básicas até avançadas, com muita prática. Transforme seu traço e expresse arte!',
-        aboutProduct: 'Você já imaginou capturar o mundo com a ponta do seu lápis? Com o curso \"Artista Master em Desenho\", transformamos sua visão artística em realidade, levando você em uma jornada criativa incrível. Este curso é sua chave de ouro para descobrir os segredos do desenho, desde conceitos fundamentais até técnicas avançadas, acessíveis a todos os níveis de habilidade. Liberte o artista dentro de você!\n\nDesenvolvido por mestres da arte visual, nosso curso é um tesouro que oferece conteúdo prático e teórico, meticulosamente planejado para impulsionar sua habilidade e confiança. Exploramos perspectiva, sombreamento, composição e muito mais, tudo em um formato fácil de seguir. Veja seu progresso através de exercícios práticos que transformarão sua capacidade de desenhar em poucas semanas!\n\nNão deixe escapar a oportunidade de brilhar no mundo do desenho. A inscrição no \"Como Desenhar\" é uma decisão inteligente para quem deseja elevar sua arte. Espaços são limitados, então garanta seu lugar agora e comece a criar obras que capturam a essência da beleza ao seu redor. Vamos juntos desbloquear seu potencial ilimitado!',
+        subtitle: '',
 
-        howTitle1: 'Técnicas Essenciais de Desenho',
-        howDesc1: 'Explore os fundamentos do desenho e aprimore sua técnica com práticas efetivas em nosso curso completo.',
+        aboutTitle: '',
+        aboutProduct: '',
 
-        howTitle2: 'Traços Precisos: Desenho',
-        howDesc2: 'Explore técnicas essenciais de desenho com videoaulas detalhadas, guias práticos e feedback constante.',
+        howTitle1: '',
+        howDesc1: '',
 
-        howTitle3: 'Desenho Master (não gostei desse aqui)',
-        howDesc3: 'Aprimore suas habilidades artísticas aplicando técnicas essenciais e práticas direcionadas, aprendidas em nosso curso, para elevar seus desenhos a um novo patamar de excelência!',
+        howTitle2: '',
+        howDesc2: '',
 
-        howTitle4: 'Desenho Prático',
-        howDesc4: 'Descubra o universo do desenho! Aprenda conceitos fundamentais e pratique intensamente com nosso infoproduto inovador!',
+        howTitle3: '',
+        howDesc3: '',
 
-        bonusTitle1: 'Guia Desmistificando Mitos',
-        bonusDesc1: 'Descubra o que o mercado exige e quais caminhos seguir para se tornar um profissional.',
-        bonusLil1Desc1: 'Compreenda as diferenças entre cursos e escolha o melhor para você.',
-        bonusLil2Desc1: 'Descubra o que realmente importa para o mercado de trabalho.',
-        bonusLil3Desc1: 'Desvende mitos e verdades sobre a necessidade de uma faculdade.',
+        howTitle4: '',
+        howDesc4: '',
 
-        bonusTitle2: 'Manual Trabalho Instantâneo',
-        bonusDesc2: 'Descubra onde encontrar oportunidades e como se destacar no mercado.',
-        bonusLil1Desc2: 'Aprenda como transformar seu talento em uma carreira lucrativa.',
-        bonusLil2Desc2: 'Descubra quem contrata e onde encontrar trabalho como desenhista.',
-        bonusLil3Desc2: 'Avalie se você está pronto para entrar no mercado e como se preparar melhor.',
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
 
-        bonusTitle3: 'Guia Materiais de Desenho',
-        bonusDesc3: 'Saiba onde comprar, comparar preços e escolher os melhores materiais para seu estilo',
-        bonusLil1Desc3: 'Conheça as melhores lojas para comprar materiais de desenho no país.',
-        bonusLil2Desc3: 'Entenda as diferenças entre material escolar e artístico antes de investir.',
-        bonusLil3Desc3: 'Descubra os preços e faça escolhas inteligentes para seu orçamento.',
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
 
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
     },
-    {
+    {//Quero Aprender Dashboard
         id: 2,
-        productName: 'Como Desenhar Mangá',
-        title: 'ué',
-        thumb: "https://kronus.kebook.com.br/assets/5ceb4048-d058-4be9-9622-202c8069e405/content-expert.png",
-        archive: "1mPr3qzMEiJ4Rmhtjqmw-LPS1rc0D0jby"
+        productName: 'Aula: Como Criar um Dashboard',
+        thumb: "https://kronus.kebook.com.br/assets/c6aa3ce7-c296-43a4-bc75-1b21b95d4b5a/content-expert.png",
+        archive: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
     },
-    {
+    {//Aula: Tudo sobre Função SE
         id: 3,
-        productName: 'Como Desenhar Quadrinhos',
-        title: 'ué',
-        thumb: "https://kronus.kebook.com.br/assets/55bc81e1-d7c7-4867-a32c-90913c64962d/content-expert.png",
-        archive: "1Nr_LgtSa-P2M9d2rh6iUpsRukA37WscY"
+        productName: 'Aula: Tudo sobre Função SE',
+        thumb: "https://kronus.kebook.com.br/assets/a6f95149-ab00-49be-9d75-5690a4581d20/content-expert.png",
+        archive: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
     },
-    {
+    {//Aula: Domine o ProcV
         id: 4,
-        title: 'ué',
-        productName: 'Pintando com Marcadores',
-        thumb: "https://kronus.kebook.com.br/assets/55c25079-1155-4fbc-8cb9-7d950a7f5b7d/content-expert.png",
-        archive: "1-X1EVRW8sjNk9hFohLDNoyNBmSGTilOR"
+        productName: 'Aula: Domine o ProcV',
+        thumb: "https://kronus.kebook.com.br/assets/b8c4afd0-d80c-4597-ad71-a0d687877734/content-expert.png",
+        archive: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
     },
-    {
+    {//Teste de Excel para Entrevista
         id: 5,
-        title: 'ué',
-        productName: 'Desenho Gestual',
-        thumb: "https://kronus.kebook.com.br/assets/cdcb5c8d-24ba-4783-bb99-99fa0264b07d/content-expert.png",
-        archive: "12zbiXZOxzVLXSMsuqy1_tJK1UJSivsWJ"
+        productName: 'Teste de Excel para Entrevista',
+        thumb: "https://kronus.kebook.com.br/assets/2e8e8220-c303-416b-80c6-3b138b7de4d7/content-expert.png",
+        archive: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
+    },
+    {//Aula: Excel para Assistente Adminsitrativo
+        id: 6,
+        productName: 'Aula: Excel para Assistente Adminsitrativo',
+        thumb: "https://kronus.kebook.com.br/assets/a9afd1ee-5796-440c-9be8-84f55052d7c8/content-expert.png",
+        archive: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
+    },
+    {//Curso de Planilhas Google
+        id: 7,
+        productName: 'Curso de Planilhas Google',
+        thumb: "https://kronus.kebook.com.br/assets/644f8f10-a61e-41d7-a32c-ece14498f860/content-expert.png",
+        archive: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
+    },
+    {//Curso primeiros passos no Excel
+        id: 8,
+        productName: 'Curso primeiros passos no Excel',
+        thumb: "https://kronus.kebook.com.br/assets/0c7d2bb2-aac5-451c-88e1-2ee5d059485f/content-expert.png",
+        archive: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
+    },
+    {//Cursos Planilhas de Excel
+        id: 9,
+        productName: 'Cursos Planilhas de Excel',
+        thumb: "https://kronus.kebook.com.br/assets/8716a1fd-9232-4dcc-bd5d-0c67955c4904/content-expert.png",
+        archive: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
     }
 ]
 
+const showModal = ref(false);
+const selectedDelivery = ref<any>(null);
+
+const openModal = (delivery: any) => {
+  selectedDelivery.value = delivery;
+  showModal.value = true;
+};
+
+const closeModal = () => {
+  showModal.value = false;
+};
 </script>
 <template>
     <section class="flex flex-col items-center justify-center mt-10">
@@ -90,11 +416,18 @@ const entregasSpy = [
         <div class="w-64 h-64">
             <Carousel>
                 <CarouselContent>
-                    <CarouselItem v-for="delivery in entregasSpy" :key="delivery.id" class="flex flex-col">
-                        <img class="object-cover h-56" :src="delivery.thumb" alt="">
+                    <CarouselItem v-for="delivery in entregasExcel" :key="delivery.id" class="flex flex-col">
+                        <img 
+                            class="object-cover h-56 cursor-pointer" 
+                            :src="delivery.thumb" 
+                            alt=""
+                            @click="openModal(delivery)"
+                        >
                         <a :href="`https://drive.google.com/uc?export=download&id=${delivery.archive}`">
                             <button
-                                class="bg-yellow-500 w-full font-black rounded-b-lg p-2 hover:bg-yellow-600 hover:delay-200">Clica em mim!</button>
+                                class="bg-yellow-500 w-full font-black rounded-b-lg p-2 hover:bg-yellow-600 hover:delay-200">
+                                Clica em mim!
+                            </button>
                         </a>
                     </CarouselItem>
                 </CarouselContent>
@@ -102,10 +435,87 @@ const entregasSpy = [
                 <CarouselNext />
             </Carousel>
         </div>
+
+        <!-- Modal -->
+        <div v-if="showModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50"
+            @click.self="closeModal">
+            <div class="bg-white rounded-lg max-w-2xl max-h-[90vh] w-full overflow-hidden flex flex-col">
+                <div class="flex justify-between items-center p-4 border-b">
+                    <h2 class="text-xl font-bold">{{ selectedDelivery.productName }}</h2>
+                    <button @click="closeModal" class="text-gray-500 hover:text-gray-700">
+                        ✕
+                    </button>
+                </div>
+                
+                <div class="overflow-y-auto p-4 space-y-6">
+                    <!-- Seção Principal -->
+                    <div v-if="selectedDelivery.title">
+                        <span>Título principal:</span>
+                        <h3 class="text-lg font-semibold mb-2">{{ selectedDelivery.title }}</h3>
+                        <span>Subtítulo:</span>
+                        <p class="text-gray-600">{{ selectedDelivery.subtitle }}</p>
+                    </div>
+
+                    <!-- Sobre o Produto -->
+                    <div v-if="selectedDelivery.aboutTitle">
+                        <span>Título em cima da descrição sobre o curso:</span>
+                        <h3 class="font-bold mb-2">{{ selectedDelivery.aboutTitle }}</h3>
+                        <span>Descrição completa do curso:</span>
+                        <p class="text-gray-600 whitespace-pre-line">{{ selectedDelivery.aboutProduct }}</p>
+                    </div>
+
+
+                    <!-- Métodos -->
+                    <div v-for="(_, index) in 4" :key="index" class="mt-0">
+                        <span>{{`How ${index + 1}:`}}</span>
+                        <div v-if="selectedDelivery[`howTitle${index + 1}`]">
+                            <h4 class="font-semibold mt-4">{{ selectedDelivery[`howTitle${index + 1}`] }}</h4>
+                            <p class="text-gray-600">{{ selectedDelivery[`howDesc${index + 1}`] }}</p>
+                        </div>
+                    </div>
+
+                    <!-- Bônus -->
+                    <div v-for="(_, index) in 3" :key="`bonus-${index}`">
+                        <span>{{`Bônus ${index + 1}:`}}</span>
+                        <div v-if="selectedDelivery[`bonusTitle${index + 1}`]">
+                            <h3 class="font-bold mt-6 text-lg">{{ selectedDelivery[`bonusTitle${index + 1}`] }}</h3>
+                            <p class="text-gray-600 mb-2">{{ selectedDelivery[`bonusDesc${index + 1}`] }}</p>
+                            <ul class="list-disc pl-6 space-y-2">
+                                <li v-if="selectedDelivery[`bonusLil1Desc${index + 1}`]">
+                                    {{ selectedDelivery[`bonusLil1Desc${index + 1}`] }}
+                                </li>
+                                <li v-if="selectedDelivery[`bonusLil2Desc${index + 1}`]">
+                                    {{ selectedDelivery[`bonusLil2Desc${index + 1}`] }}
+                                </li>
+                                <li v-if="selectedDelivery[`bonusLil3Desc${index + 1}`]">
+                                    {{ selectedDelivery[`bonusLil3Desc${index + 1}`] }}
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="p-4 border-t flex justify-end space-x-7">
+                    <button 
+                        @click="closeModal"
+                        class="px-4 py-2 bg-gray-200 hover:bg-gray-300 rounded-lg"
+                    >
+                        Fechar
+                    </button>
+                </div>
+            </div>
+        </div>
     </section>
 </template>
 <style scoped>
 .subtitle {
     font-size: 22px;
+}
+
+.modal-content {
+    max-height: 80vh;
+}
+span {
+    color: red;
 }
 </style>
