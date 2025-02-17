@@ -10,7 +10,7 @@ import {
 } from '@/components/ui/carousel'
 
 const entregasSpy = [
-    {
+    { //como desenhar ta ok
         id: 1,
         productName: 'Como Desenhar',
         thumb: "https://kronus.kebook.com.br/assets/8926ea06-fcf6-47c0-9c3a-440c1a3478a6/content-expert.png",
@@ -21,7 +21,7 @@ const entregasSpy = [
         subtitle: 'Transforme suas ideias em arte, aprenda técnicas de desenho e pratique com experts. Torne-se um desenhista habilidoso e criativo.',
 
         aboutTitle: 'Aprenda a desenhar! Técnicas básicas até avançadas, com muita prática. Transforme seu traço e expresse arte',
-        aboutProduct: 'Você já imaginou capturar o mundo com a ponta do seu lápis? Com o curso \"Como Desenhar\", transformamos sua visão artística em realidade, levando você em uma jornada criativa incrível. Este curso é sua chave de ouro para descobrir os segredos do desenho, desde conceitos fundamentais até técnicas avançadas, acessíveis a todos os níveis de habilidade. Liberte o artista dentro de você!\n\nDesenvolvido pelo Thiago Spyked, nosso curso é um tesouro que oferece conteúdo prático e teórico, meticulosamente planejado para impulsionar sua habilidade e confiança. Exploramos perspectiva, sombreamento, composição e muito mais, tudo em um formato fácil de seguir. Veja seu progresso através de exercícios práticos que transformarão sua capacidade de desenhar em poucas semanas!\n\nNão deixe escapar a oportunidade de brilhar no mundo do desenho. A inscrição no \"Como Desenhar\" é uma decisão inteligente para quem deseja elevar sua arte. Espaços são limitados, então garanta seu lugar agora e comece a criar obras que capturam a essência da beleza ao seu redor. Vamos juntos desbloquear seu potencial ilimitado!',
+        aboutProduct: 'Você já imaginou capturar o mundo com a ponta do seu lápis? Com o curso Como Desenhar, transformamos sua visão artística em realidade, levando você em uma jornada criativa incrível. Este curso é sua chave de ouro para descobrir os segredos do desenho, desde conceitos fundamentais até técnicas avançadas, acessíveis a todos os níveis de habilidade. Liberte o artista dentro de você!\n\nDesenvolvido pelo Thiago Spyked, nosso curso é um tesouro que oferece conteúdo prático e teórico, meticulosamente planejado para impulsionar sua habilidade e confiança. Exploramos perspectiva, sombreamento, composição e muito mais, tudo em um formato fácil de seguir. Veja seu progresso através de exercícios práticos que transformarão sua capacidade de desenhar em poucas semanas!\n\nNão deixe escapar a oportunidade de brilhar no mundo do desenho. A inscrição no Como Desenhar é uma decisão inteligente para quem deseja elevar sua arte. Espaços são limitados, então garanta seu lugar agora e comece a criar obras que capturam a essência da beleza ao seu redor. Vamos juntos desbloquear seu potencial ilimitado!',
 
         howTitle1: 'Técnicas Essenciais',
         howDesc1: 'Explore os fundamentos do desenho e aprimore sua técnica com práticas efetivas em nosso curso completo.',
@@ -29,32 +29,32 @@ const entregasSpy = [
         howTitle2: 'Traços Precisos',
         howDesc2: 'Aprenda técnicas essenciais de desenho com videoaulas detalhadas, guias práticos e feedback constante.',
 
-        howTitle3: 'Desenho Fodástico',
-        howDesc3: 'Aprimore suas habilidades artísticas aplicando técnicas essenciais e práticas direcionadas, aprendidas em nosso curso, para elevar seus desenhos a um novo patamar de excelência!',
+        howTitle3: 'Traços Expressivos',
+        howDesc3: 'Aprimore suas habilidades artísticas aplicando técnicas essenciais e práticas direcionadas, aprendidas em nosso programa, para elevar seus desenhos a um novo patamar de excelência!',
 
         howTitle4: 'Desenho Prático',
         howDesc4: 'Descubra o universo do desenho e aplique conceitos fundamentais e pratique intensamente.',
 
-        bonusTitle1: 'Guia Desmistificando Mitos',
+        bonusTitle1: 'Guia Essencial para Desmistificar Mitos',
         bonusDesc1: 'Descubra o que o mercado exige e quais caminhos seguir para se tornar um profissional.',
         bonusLil1Desc1: 'Compreenda as diferenças entre cursos e escolha o melhor para você',
         bonusLil2Desc1: 'Descubra o que realmente importa para o mercado de trabalho',
         bonusLil3Desc1: 'Desvende mitos e verdades sobre a necessidade de uma faculdade',
 
-        bonusTitle2: 'Manual Trabalho Instantâneo',
+        bonusTitle2: 'Manual do Trabalho Instantâneo',
         bonusDesc2: 'Descubra onde encontrar oportunidades e como se destacar no mercado.',
         bonusLil1Desc2: 'Aprenda como transformar seu talento em uma carreira lucrativa',
         bonusLil2Desc2: 'Descubra quem contrata e onde encontrar trabalho como desenhista',
         bonusLil3Desc2: 'Avalie se você está pronto para entrar no mercado e como se preparar melhor',
 
-        bonusTitle3: 'Guia Materiais de Desenho',
+        bonusTitle3: 'Lista Exclusiva de Materiais de Desenho',
         bonusDesc3: 'Saiba onde comprar, comparar preços e escolher os melhores materiais para seu estilo.',
         bonusLil1Desc3: 'Conheça as melhores lojas para comprar materiais de desenho no país',
         bonusLil2Desc3: 'Entenda as diferenças entre material escolar e artístico antes de investir',
         bonusLil3Desc3: 'Descubra os preços e faça escolhas inteligentes para seu orçamento',
 
     },
-    {
+    { // como desenhar manga
         id: 2,
         productName: 'Como Desenhar Mangá',
         thumb: "https://kronus.kebook.com.br/assets/5ceb4048-d058-4be9-9622-202c8069e405/content-expert.png",
@@ -62,22 +62,22 @@ const entregasSpy = [
 
         title: 'Desenhe Mangás Como um Mestre: Técnicas Profissionais Reveladas',
 
-        subtitle: 'Descubra os segredos de design dos mangás e eleve suas habilidades artísticas para criar cenas e personagens impactantes, como um mestre japonês',
+        subtitle: 'Descubra os segredos de design dos mangás e eleve suas habilidades artísticas para criar cenas e personagens impactantes',
 
-        aboutTitle: 'Transforme seu Traço: Aprenda a Criar Mangás como um Mestre',
+        aboutTitle: 'Transforme seu Traço e Aprenda a Criar Mangás como um Mestre',
         aboutProduct: 'Descubra os segredos milenares dos mestres japoneses para criar mangás impactantes! Com nosso curso, você aprenderá, passo a passo, como ilustrar mangás com a precisão de um verdadeiro profissional. Desde estruturas corporais dinâmicas até expressões faciais marcantes, nossos módulos são desenhados para desbloquear todo o seu potencial criativo. Não importa se você é um iniciante ou já possui alguma prática, este curso é o mapa para o seu sucesso.\n\nImagine capturar toda a emoção e ação de suas cenas favoritas com suas próprias mãos. Em nosso curso, você explorará técnicas avançadas de movimento e posicionamento que trarão seus personagens para a vida de maneira nunca antes vista! Aprenda como balancear detalhes e energia em cada traço, criando obras que mantêm seus espectadores na borda de seus assentos. Transforme suas ideias em arte que respira, luta e ama com a intensidade do universo do mangá.\n\nAlém disso, mergulhe na arte da pintura e colorização, finalizando suas obras com um toque profissional. Com acesso a tutoriais detalhados e feedback constante, você elevará suas habilidades a um nível onde apenas os grandes artistas chegaram. A oportunidade de transformar sua paixão em uma carreira está a apenas um clique de distância. Inscreva-se agora e comece a criar não apenas desenhos, mas histórias que perdurarão por gerações.',
 
-        howTitle1: 'Corpo do desenho',
-        howDesc1: 'Aprenda como desenhar corpos masculinos e femininos, cabeça, detalhes do rosto, cabelos, mãos, pés, roupas e mais',
+        howTitle1: 'Estrutura do desenho',
+        howDesc1: 'Descubra como ilustrar corpos masculinos e femininos, incluindo a cabeça, detalhes faciais, cabelos, mãos, pés, vestimentas e muito mais',
 
-        howTitle2: 'Posições e movimentos',
-        howDesc2: 'Descubra como trabalhar ângulos e movimentos nos seus desenhos, criando expressões reais para as suas histórias',
+        howTitle2: 'Posturas e Dinamismo',
+        howDesc2: 'Aprenda a representar ângulos e movimentos em seus desenhos, trazendo expressividade e realismo para suas histórias',
 
-        howTitle3: 'Cenas',
-        howDesc3: 'Saiba como criar cenas de lutas, expressões, perspectiva, pontos de fuga e como desenhar cenários perfeitos para ilustrar as cenas',
+        howTitle3: 'Composição de Cenas',
+        howDesc3: 'Aprenda a desenvolver cenas de luta, expressões, perspectiva, pontos de fuga e a criar cenários ideais para ilustrar suas histórias',
 
-        howTitle4: 'Pintura',
-        howDesc4: 'Entenda as melhores técnicas de pintura com lápis de cor e pintura digital, saiba finalizar os seus desenhos de modo realista e profissional',
+        howTitle4: 'Colorização',
+        howDesc4: 'Explore as melhores técnicas de pintura com lápis de cor e digital, aprendendo a finalizar seus desenhos com realismo e profissionalismo',
 
         bonusTitle1: 'Speed Paint Lápis de Cor Emiya Shirou',
         bonusDesc1: 'Veja todo o processo, do traço à coloração, e aprimore suas técnicas',
@@ -97,7 +97,7 @@ const entregasSpy = [
         bonusLil2Desc3: 'Entenda as práticas e técnicas que moldaram esse estilo artístico',
         bonusLil3Desc3: 'Explore a origem do mangá e como ele se tornou um fenômeno global.',
     },
-    {
+    { // como desenhar quadrinhos ta ok
         id: 3,
         productName: 'Como Desenhar Quadrinhos',
         thumb: "https://kronus.kebook.com.br/assets/55bc81e1-d7c7-4867-a32c-90913c64962d/content-expert.png",
@@ -141,7 +141,7 @@ const entregasSpy = [
         bonusLil2Desc3: '',
         bonusLil3Desc3: '',
     },
-    {
+    { // pintando com marcadeores
         id: 4,
         productName: 'Pintando com Marcadores',
         thumb: "https://kronus.kebook.com.br/assets/55c25079-1155-4fbc-8cb9-7d950a7f5b7d/content-expert.png",
@@ -154,17 +154,17 @@ const entregasSpy = [
         aboutTitle: 'Eleve suas ilustrações a arte com técnicas de pintura em Anime!',
         aboutProduct: 'Descubra o caminho mágico para transformar suas ilustrações em obras de arte deslumbrantes com nosso exclusivo Curso de Pintura com Marcadores para Animes! Se você sempre sonhou em dar vida aos seus personagens favoritos com cores vibrantes e técnicas profissionais, seu momento chegou. Neste curso, você aprenderá não apenas a pintar, mas a expressar a essência emocional de cada cena, fazendo suas criações pularem do papel!\n\nInvestir em sua paixão por animes e arte nunca foi tão empolgante! Com técnicas detalhadas e dicas especiais de artistas renomados no mundo do anime, este curso é perfeitamente projetado para iniciantes e avançados. Cada aula é uma porta para um universo onde você é o criador de incríveis histórias visuais. Imagine as incríveis texturas que você poderá criar e os efeitos impressionantes que aprenderá a fazer com simples marcadores!\n\nNão espere mais para transformar sua habilidade artística e impressionar todos ao seu redor. As vagas são limitadas, então agarre esta oportunidade única e inscreva-se agora! Prepare-se para ser o artista que sempre quis ser, criando animes que capturam corações e mentes. Este curso é o seu segredo para se destacar e ser reconhecido no emocionante mundo da arte anime. Venha pintar seu caminho para o sucesso!',
 
-        howTitle1: 'Fundamentos iniciais',
-        howDesc1: 'Saiba como escolher e comprar seus marcadores, quais as melhores recomendações de cores, os tipos de papéis para trabalhar e confira alguns exercícios para se familiarizar com as técnicas ensinadas',
+        howTitle1: 'Noções Básicas',
+        howDesc1: 'Aprenda a escolher e comprar seus marcadores, descubra as melhores combinações de cores, conheça os tipos de papéis ideais e pratique com exercícios para dominar as técnicas ensinadas',
 
-        howTitle2: 'Pele dos personagens',
-        howDesc2: 'Aprenda como os marcadores funcionam e se organizam, suas nomenclaturas peculiares e domine os passos para fazer a pele de dois personagens  icônicos utilizando as técnicas demonstradas.',
+        howTitle2: 'Colorização de Pele',
+        howDesc2: 'Entenda o funcionamento e a organização dos marcadores, suas nomenclaturas específicas e aprenda a criar a pele de dois personagens icônicos utilizando as técnicas ensinadas',
 
-        howTitle3: 'Colorização de olhos',
-        howDesc3: 'Saiba como construir a figura humana de modo espontâneo e diga adeus ao sofrimento por ter o desenho rígido e travado.',
+        howTitle3: 'Detalhes dos Olhos',
+        howDesc3: 'Aprenda a colorir olhos de forma vibrante e expressiva, adicionando profundidade e realismo aos seus personagens.',
 
-        howTitle4: 'Pintura de roupas',
-        howDesc4: 'Entenda como colorir uma vestimenta com dobras, quais as melhores formas de realizar o trabalho, o que levar em consideração e como executar uma pintura de roupa de personagem com excelência.',
+        howTitle4: 'Colorização de Roupas',
+        howDesc4: 'Aprenda a pintar vestimentas com dobras realistas, descubra as melhores técnicas e saiba como alcançar um acabamento impecável na roupa dos seus personagens.',
 
         bonusTitle1: 'Line Art na ilustração',
         bonusDesc1: 'Aprenda como funciona a técnica e confira uma inspiração fantástica para você criar suas próprias obras',
@@ -197,17 +197,17 @@ const entregasSpy = [
         aboutTitle: 'Aprenda Técnicas de Desenho Gestual e Dê Vida aos Seus Traços!',
         aboutProduct: 'Você está pronto para transformar seus desenhos e dar vida às suas criações de uma maneira que jamais imaginou? O nosso Curso de Desenho Gestual é a chave para desbloquear o potencial oculto em cada traço, proporcionando dinamismo e fluidez que vão fazer suas obras saltarem do papel. Este curso exclusivo está alinhado com as mais recentes técnicas de movimento, garantindo que você aprenda através da prática direcionada e eficaz.\n\nImagine capturar a essência do movimento humano em cada linha, criando obras que não apenas representam, mas que também respiram e se movem com uma naturalidade impressionante! Conosco, você vai absorver cada segredo para aplicar esse conhecimento em qualquer estilo de desenho que desejar. Nossos módulos são projetados para lhe proporcionar uma experiência de aprendizado intensa e gratificante, que eleva sua habilidade ao próximo nível.\n\nNão deixe essa oportunidade única escapar! Junte-se a uma comunidade de artistas talentosos que, como você, desejam se aprofundar no universo do desenho gestual e revolucionar sua forma de expressão artística. Inscreva-se agora e seja parte desse movimento artístico, onde cada gesto transforma papel e tinta em puro encanto!',
 
-        howTitle1: 'Fluidez no Traço',
-        howDesc1: 'Aprenda técnicas práticas em nosso curso de desenho gestual e dê vida e movimento aos seus desenhos de forma criativa e eficaz!',
+        howTitle1: 'Tridimensionalidade',
+        howDesc1: 'Descubra como trazer mais realismo e dinamismo aos seus desenhos com técnicas em 3D e eleve seu nível como artista',
 
-        howTitle2: 'Gestos Dinâmicos Ilustrados',
-        howDesc2: 'Aprenda técnicas de desenho gestual em nosso curso prático para dar vida e movimento aos seus trabalhos artísticos.',
+        howTitle2: 'Composição da Figura Humana',
+        howDesc2: 'Aprenda a criar a figura humana de forma fluida e natural, eliminando a rigidez e ganhando liberdade e expressividade nos seus desenhos.',
 
         howTitle3: 'Gestos Dinâmicos',
         howDesc3: 'Aprimore sua arte com nosso curso de desenho gestual! Aprenda técnicas práticas para infundir movimento e vida em cada traço e transforme suas criações visuais.',
 
-        howTitle4: 'Gestos Dinâmicos',
-        howDesc4: 'Aprimore suas habilidades em desenho gestual com nosso curso prático, aprendendo técnicas eficazes para dar vida e movimento às suas criações!',
+        howTitle4: 'Método Simplificado',
+        howDesc4: 'Acesse um conteúdo claro, completo, exclusivo e eficiente para acompanhar e facilitar sua jornada no aprendizado',
 
         bonusTitle1: '',
         bonusDesc1: '',
