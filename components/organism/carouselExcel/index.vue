@@ -14,6 +14,7 @@ const entregasExcel = [
         productName: 'Curso de Excel Online',
         thumb: "https://kronus.kebook.com.br/assets/3cd3d543-0b65-4cff-a2c4-8ec2dc41678c/content-expert.png",
         archive: "1xjJyK6Tfkg1t7473q6q7O_9TWXZUHaxM",
+        linkTO: "https://testingcursodeexcelonline.kebook.com.br/",
 
         title: 'Aprenda a criar planilhas, controlar estoque e finanças, calcular comissões e mais. Torne-se um expert em análise de dados',
 
