@@ -12,6 +12,12 @@ const experts = [{
     name: 'Michel',
     image: 'https://kronus.kebook.com.br/assets/dbdfe559-701c-4fba-8759-b124ffb171ab/expert-mid.png.webp?format=webp&quality=80',
     path: '/michels'
+},
+{
+    id: 3,
+    name: 'Flávio',
+    image: 'https://kronus.kebook.com.br/assets/00e72c54-44b4-4b65-abc0-50f25dd4f417/expert-mid.png.webp?format=webp&quality=80',
+    path: '/arduino'
 },]
 </script>
 

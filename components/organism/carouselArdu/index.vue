@@ -1,0 +1,405 @@
+<script setup lang="ts">
+import AtomTitle from '~/components/atoms/atomTitle/atomTitle.vue';
+import {
+    Carousel,
+    CarouselContent,
+    CarouselItem,
+    CarouselNext,
+    CarouselPrevious,
+} from '@/components/ui/carousel'
+
+const entregasSpy = [
+    { //arduino 2.0
+        id: 1,
+        productName: 'Arduino 2.0',
+        thumb: "https://kronus.kebook.com.br/assets/0a17ebc3-8b5b-436b-aac9-af2ae925ad53/content-expert.png",
+        archive: "",
+        linkTo: "",
+
+        title: 'Aprenda Arduino do zero programe com facilidade e desenvolva projetos inovadores que impressionam',
+
+        subtitle: 'Aprenda Arduino rápido e crie soluções high-tech que impressionam, mesmo iniciando agora',
+
+        aboutTitle: 'Descubra como programar Arduino e crie projetos incríveis, mesmo sem experiência prévia',
+        aboutProduct: 'Imagine um mundo onde você pode criar dispositivos inteligentes, automatizar tarefas do dia a dia e dar vida a projetos incríveis com suas próprias mãos. Com o Curso de Arduino, esse poder está ao seu alcance! Aqui, você vai aprender a programar de forma simples e prática, mesmo que nunca tenha escrito uma linha de código. De robôs a sistemas de automação residencial, as possibilidades são infinitas – e tudo começa com o primeiro passo que você der hoje.\nEste curso foi desenvolvido para iniciantes e entusiastas que desejam ir além da teoria e colocar a mão na massa. Com aulas didáticas, exemplos reais e projetos passo a passo, você vai adquirir habilidades que impressionam. Imagine a satisfação de ver seu primeiro projeto funcionando perfeitamente, ou até mesmo apresentar uma solução inovadora para amigos, familiares ou no mercado de trabalho. O Arduino é a ferramenta do futuro, e você está a um clique de fazer parte dessa revolução.\nNão importa se você é um estudante, hobbyista ou profissional em busca de novas habilidades – este curso é o atalho para o sucesso. Com acesso vitalício, suporte especializado e uma comunidade de makers como você, não há limites para o que pode alcançar. Não espere mais para transformar suas ideias em realidade. Inscreva-se agora e comece a criar projetos que vão mudar sua vida e a de quem está ao seu redor. O futuro é seu para construir!',
+
+        howTitle1: 'Aprenda a Programar',
+        howDesc1: 'Crie projetos incríveis e automatize soluções inteligentes, mesmo sem experiência prévia. Transforme ideias em realidade',
+
+        howTitle2: 'Crie Projetos',
+        howDesc2: 'Desenvolva projetos inovadores, desde automação residencial até robótica, mesmo começando do zero. Seu futuro criativo começa aqui',
+
+        howTitle3: 'Arduino Básico',
+        howDesc3: 'Aprenda os conceitos fundamentais do Arduino, desde a estrutura do hardware até a lógica de programação, e comece a criar seus primeiros projetos com confiança',
+
+        howTitle4: 'Progresso no Arduino',
+        howDesc4: 'Do básico ao avançado: aprenda a programar Arduino, entenda componentes eletrônicos e crie projetos complexos, evoluindo de iniciante a expert em pouco tempo',
+
+        bonusTitle1: 'Qual Modelo de Arduino Comprar: Guia Prático para Iniciantes',
+        bonusDesc1: 'Descubra por onde começar e escolha o modelo ideal de Arduino para seus projetos',
+        bonusLil1Desc1: 'Orientação prática para iniciantes',
+        bonusLil2Desc1: 'Aprenda como escolher o Arduino certo para suas necessidades',
+        bonusLil3Desc1: 'Conheça as diferenças entre os modelos e suas aplicações',
+
+        bonusTitle2: 'Transforme Projetos com Arduino em Produtos Profissionais',
+        bonusDesc2: 'Aprenda a lucrar e se tornar um profissional, transformando suas ideias em produtos de sucesso',
+        bonusLil1Desc2: 'Domine o passo a passo para iniciar e finalizar projetos profissionais',
+        bonusLil2Desc2: 'Acesse vídeos completos com todas as explicações detalhadas',
+        bonusLil3Desc2: 'Descubra estratégias para monetizar seus projetos com Arduino',
+
+        bonusTitle3: 'Proteja seu Projeto com Arduino Contra Pirataria',
+        bonusDesc3: 'Aprenda os conceitos fundamentais de segurança para garantir a integridade dos seus projetos',
+        bonusLil1Desc3: 'Desenvolva um Arduino com proteção anti-pirataria',
+        bonusLil2Desc3: 'Siga um passo a passo completo e prático',
+        bonusLil3Desc3: 'Aprenda técnicas avançadas para blindar seus projetos',
+
+    },
+    { //corte a laser
+        id: 2,
+        productName: 'Guia do Corte a Laser',
+        thumb: "https://kronus.kebook.com.br/assets/f14174eb-cef9-41c8-bf3f-2e6664dbe92c/content-expert.png",
+        archive: "",
+        linkTo: "",
+
+        title: 'Transforme Ideias em Realidade do Tinkercad ao Corte a Laser, Crie Projetos Incríveis com Precisão Profissional',
+
+        subtitle: 'Aprenda a criar do zero: da modelagem 3D no Tinkercad ao corte a laser, produza peças precisas e impressionantes como um verdadeiro maker',
+
+        aboutTitle: 'Do design 3D ao corte a laser: crie peças profissionais e torne-se um expert maker em poucos passos',
+        aboutProduct: 'Imagine transformar suas ideias em peças reais, com precisão e qualidade profissional, usando uma das tecnologias mais incríveis do mundo maker: o corte a laser. Com este curso, você vai dominar todas as etapas, desde a modelagem 3D no Tinkercad até a produção final na máquina de corte e gravação a laser. Não importa se você é um iniciante ou já tem alguma experiência – aqui, você vai aprender de forma prática, rápida e eficiente, com um método que vai levar suas habilidades a um novo patamar.\nEste curso foi desenvolvido para quem quer ir além da teoria e colocar a mão na massa. Você vai aprender a criar designs incríveis, configurar a máquina de corte a laser e produzir peças que impressionam. De projetos pessoais a soluções profissionais, as possibilidades são infinitas. Imagine a satisfação de ver suas criações ganhando vida, com detalhes precisos e acabamento impecável. Este é o seu momento de se tornar um verdadeiro maker e transformar sua criatividade em realidade!\nCom acesso vitalício, suporte especializado e uma comunidade de makers para trocar ideias, você terá tudo o que precisa para evoluir rapidamente. Não espere mais para começar a criar peças únicas e funcionais que vão destacar seu trabalho. Inscreva-se agora e dê o primeiro passo para dominar o corte a laser e se tornar um expert na arte da criação digital. O futuro da fabricação está em suas mãos – comece hoje mesmo!',
+        
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
+
+    },
+    { //arduino principainte
+        id: 3,
+        productName: '',
+        thumb: "https://kronus.kebook.com.br/assets/e0784530-0fb5-47cf-8f10-d8e791e6d1fd/content-expert.png",
+        archive: "",
+        linkTo: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
+
+    },
+    { //guia de referencia arduino
+        id: 4,
+        productName: '',
+        thumb: "https://kronus.kebook.com.br/assets/793fb542-407c-41da-81b2-1ca7f658486b/content-expert.png",
+        archive: "",
+        linkTo: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
+
+    },
+    { //arduino avançado
+        id: 5,
+        productName: '',
+        thumb: "https://kronus.kebook.com.br/assets/a1ea6a67-6df1-4198-a0df-ff0e242a9245/content-expert.png",
+        archive: "",
+        linkTo: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
+
+    },
+    { //mentoria
+        id: 6,
+        productName: '',
+        thumb: "https://kronus.kebook.com.br/assets/ecd9218e-a44e-48ff-983e-de64164d3ffb/content-expert.png",
+        archive: "",
+        linkTo: "",
+
+        title: '',
+
+        subtitle: '',
+
+        aboutTitle: '',
+        aboutProduct: '',
+
+        howTitle1: '',
+        howDesc1: '',
+
+        howTitle2: '',
+        howDesc2: '',
+
+        howTitle3: '',
+        howDesc3: '',
+
+        howTitle4: '',
+        howDesc4: '',
+
+        bonusTitle1: '',
+        bonusDesc1: '',
+        bonusLil1Desc1: '',
+        bonusLil2Desc1: '',
+        bonusLil3Desc1: '',
+
+        bonusTitle2: '',
+        bonusDesc2: '',
+        bonusLil1Desc2: '',
+        bonusLil2Desc2: '',
+        bonusLil3Desc2: '',
+
+        bonusTitle3: '',
+        bonusDesc3: '',
+        bonusLil1Desc3: '',
+        bonusLil2Desc3: '',
+        bonusLil3Desc3: '',
+
+    },
+]
+
+const showModal = ref(false);
+const selectedDelivery = ref<any>(null);
+
+const openModal = (delivery: any) => {
+  selectedDelivery.value = delivery;
+  showModal.value = true;
+};
+
+const closeModal = () => {
+  showModal.value = false;
+};
+</script>
+<template>
+    <section class="flex flex-col items-center justify-center mt-10">
+        <AtomTitle :title="'Copys do Spyked'" />
+        <div class="w-64 h-64">
+            <Carousel>
+                <CarouselContent>
+                    <CarouselItem v-for="delivery in entregasSpy" :key="delivery.id" class="flex flex-col">
+                        <img 
+                            class="object-cover h-56 cursor-pointer" 
+                            :src="delivery.thumb" 
+                            alt=""
+                            @click="openModal(delivery)"
+                        >
+                        <a :href="`https://drive.google.com/uc?export=download&id=${delivery.archive}`">
+                            <button
+                                class="bg-yellow-500 w-full font-black rounded-b-lg p-2 hover:bg-yellow-600 hover:delay-200">
+                                Clica em mim!
+                            </button>
+                        </a>
+                    </CarouselItem>
+                </CarouselContent>
+                <CarouselPrevious />
+                <CarouselNext />
+            </Carousel>
+        </div>
+
+        <!-- Modal -->
+        <div v-if="showModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50"
+            @click.self="closeModal">
+            <div class="bg-white rounded-lg max-w-2xl max-h-[90vh] w-full overflow-hidden flex flex-col">
+                <div class="flex justify-between items-center p-4 border-b">
+                    <h2 class="text-xl font-bold">{{ selectedDelivery.productName }}</h2>
+                    <button @click="closeModal" class="text-gray-500 hover:text-gray-700">
+                        ✕
+                    </button>
+                </div>
+                
+                <div class="overflow-y-auto p-4 space-y-6">
+                    <!-- Seção Principal -->
+                    <div v-if="selectedDelivery.title">
+                        <span>Título principal:</span>
+                        <h3 class="text-lg font-semibold mb-2">{{ selectedDelivery.title }}</h3>
+                        <span>Subtítulo:</span>
+                        <p class="text-gray-600">{{ selectedDelivery.subtitle }}</p>
+                    </div>
+
+                    <!-- Sobre o Produto -->
+                    <div v-if="selectedDelivery.aboutTitle">
+                        <span>Título em cima da descrição sobre o curso:</span>
+                        <h3 class="font-bold mb-2">{{ selectedDelivery.aboutTitle }}</h3>
+                        <span>Descrição completa do curso:</span>
+                        <p class="text-gray-600 whitespace-pre-line">{{ selectedDelivery.aboutProduct }}</p>
+                    </div>
+
+
+                    <!-- Métodos -->
+                    <div v-for="(_, index) in 4" :key="index" class="mt-0">
+                        <span>{{`How ${index + 1}:`}}</span>
+                        <div v-if="selectedDelivery[`howTitle${index + 1}`]">
+                            <h4 class="font-semibold mt-4">{{ selectedDelivery[`howTitle${index + 1}`] }}</h4>
+                            <p class="text-gray-600">{{ selectedDelivery[`howDesc${index + 1}`] }}</p>
+                        </div>
+                    </div>
+
+                    <!-- Bônus -->
+                    <div v-for="(_, index) in 3" :key="`bonus-${index}`">
+                        <span>{{`Bônus ${index + 1}:`}}</span>
+                        <div v-if="selectedDelivery[`bonusTitle${index + 1}`]">
+                            <h3 class="font-bold mt-6 text-lg">{{ selectedDelivery[`bonusTitle${index + 1}`] }}</h3>
+                            <p class="text-gray-600 mb-2">{{ selectedDelivery[`bonusDesc${index + 1}`] }}</p>
+                            <ul class="list-disc pl-6 space-y-2">
+                                <li v-if="selectedDelivery[`bonusLil1Desc${index + 1}`]">
+                                    {{ selectedDelivery[`bonusLil1Desc${index + 1}`] }}
+                                </li>
+                                <li v-if="selectedDelivery[`bonusLil2Desc${index + 1}`]">
+                                    {{ selectedDelivery[`bonusLil2Desc${index + 1}`] }}
+                                </li>
+                                <li v-if="selectedDelivery[`bonusLil3Desc${index + 1}`]">
+                                    {{ selectedDelivery[`bonusLil3Desc${index + 1}`] }}
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="p-4 border-t flex justify-end space-x-7">
+                    <a v-if="selectedDelivery.linkTo" :href="selectedDelivery.linkTo" class="px-4 py-2 bg-yellow-200 hover:bg-yellow-300 rounded-lg">Ver Online</a>
+                    <button 
+                        @click="closeModal"
+                        class="px-4 py-2 bg-gray-200 hover:bg-gray-300 rounded-lg"
+                    >
+                        Fechar
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+<style scoped>
+.subtitle {
+    font-size: 22px;
+}
+
+.modal-content {
+    max-height: 80vh;
+}
+span {
+    color: red;
+}
+</style>

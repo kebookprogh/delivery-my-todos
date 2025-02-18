@@ -186,7 +186,7 @@ const entregasSpy = [
         bonusLil2Desc3: 'Acompanhe este processo de pintura com todo o conforto necessário para seu melhor aprendizado',
         bonusLil3Desc3: 'Encontre um novo desafio de pintura e coloque em prática com todas as dicas, ensinamentos e orientações do curso',
     },
-    {
+    { // desenho gestante
         id: 5,
         productName: 'Desenho Gestual',
         thumb: "https://kronus.kebook.com.br/assets/cdcb5c8d-24ba-4783-bb99-99fa0264b07d/content-expert.png",
