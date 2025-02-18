@@ -256,7 +256,7 @@ const closeModal = () => {
 </script>
 <template>
     <section class="flex flex-col items-center justify-center mt-10">
-        <AtomTitle :title="'Copys do Spyked'" />
+        <AtomTitle class="text-white" :title="'Copys do Flávio'" />
         <div class="w-64 h-64">
             <Carousel>
                 <CarouselContent>
@@ -269,7 +269,7 @@ const closeModal = () => {
                         >
                         <a :href="`https://drive.google.com/uc?export=download&id=${delivery.archive}`">
                             <button
-                                class="bg-yellow-500 w-full font-black rounded-b-lg p-2 hover:bg-yellow-600 hover:delay-200">
+                                class="bg-blue-500 w-full font-white rounded-b-lg p-2 hover:bg-blue-600 hover:delay-200">
                                 Clica em mim!
                             </button>
                         </a>
