@@ -68,17 +68,17 @@ const entregasSpy = [
         aboutTitle: 'Do design 3D ao corte a laser: crie peças profissionais e torne-se um expert maker em poucos passos',
         aboutProduct: 'Imagine transformar suas ideias em peças reais, com precisão e qualidade profissional, usando uma das tecnologias mais incríveis do mundo maker: o corte a laser. Com este curso, você vai dominar todas as etapas, desde a modelagem 3D no Tinkercad até a produção final na máquina de corte e gravação a laser. Não importa se você é um iniciante ou já tem alguma experiência – aqui, você vai aprender de forma prática, rápida e eficiente, com um método que vai levar suas habilidades a um novo patamar.\nEste curso foi desenvolvido para quem quer ir além da teoria e colocar a mão na massa. Você vai aprender a criar designs incríveis, configurar a máquina de corte a laser e produzir peças que impressionam. De projetos pessoais a soluções profissionais, as possibilidades são infinitas. Imagine a satisfação de ver suas criações ganhando vida, com detalhes precisos e acabamento impecável. Este é o seu momento de se tornar um verdadeiro maker e transformar sua criatividade em realidade!\nCom acesso vitalício, suporte especializado e uma comunidade de makers para trocar ideias, você terá tudo o que precisa para evoluir rapidamente. Não espere mais para começar a criar peças únicas e funcionais que vão destacar seu trabalho. Inscreva-se agora e dê o primeiro passo para dominar o corte a laser e se tornar um expert na arte da criação digital. O futuro da fabricação está em suas mãos – comece hoje mesmo!',
         
-        howTitle1: '',
-        howDesc1: '',
+        howTitle1: 'Corte Criativo',
+        howDesc1: 'Aprenda a criar peças incríveis, desde a modelagem 3D no Tinkercad até o corte e gravação final na máquina a laser, e transforme suas ideias em realidade',
 
-        howTitle2: '',
-        howDesc2: '',
+        howTitle2: 'Finalize Projetos',
+        howDesc2: 'Domine todas as etapas, da modelagem 3D no Tinkercad ao corte e gravação a laser, e finalize seus projetos com precisão e qualidade profissional',
 
-        howTitle3: '',
-        howDesc3: '',
+        howTitle3: 'Cuidados Essenciais',
+        howDesc3: 'Aprenda os cuidados imprescindíveis para trabalhar com corte a laser, desde a modelagem 3D no Tinkercad até a finalização segura e eficiente do seu projeto',
 
-        howTitle4: '',
-        howDesc4: '',
+        howTitle4: 'Iniciando no Laser',
+        howDesc4: 'Descubra o passo a passo completo para iniciantes, desde a modelagem 3D no Tinkercad até o corte e gravação a laser, e comece a criar seus projetos com confiança',
 
         bonusTitle1: '',
         bonusDesc1: '',
@@ -101,74 +101,80 @@ const entregasSpy = [
     },
     { //arduino principainte
         id: 3,
-        productName: '',
+        productName: 'Arduino Principiantes',
         thumb: "https://kronus.kebook.com.br/assets/e0784530-0fb5-47cf-8f10-d8e791e6d1fd/content-expert.png",
         archive: "",
         linkTo: "",
 
-        title: '',
+        title: 'Descubra o Arduino Aprenda Programação e Crie Projetos Incríveis Mesmo Começando do Zero',
 
-        subtitle: '',
+        subtitle: 'Do zero ao criador: aprenda Arduino de forma simples, programe como um expert e desenvolva projetos inovadores que impressionam',
 
-        aboutTitle: '',
-        aboutProduct: '',
+        aboutTitle: 'Descubra como programar Arduino e crie projetos incríveis, mesmo sem experiência prévia. Comece agora e transforme suas ideias em realidade',
+        aboutProduct: 'Já imaginou criar projetos incríveis com suas próprias mãos, dando vida a ideias inovadoras? Com o Curso de Arduino para Iniciantes, você aprende do zero a programar e dominar os conceitos essenciais da eletrônica e automação. Mesmo sem experiência, em poucas aulas, você estará desenvolvendo circuitos inteligentes e controlando dispositivos com facilidade!\n100% prático, didático e sem enrolação! Aprenda a programar, conectar sensores, criar sistemas automatizados e muito mais! Com suporte direto de especialistas e materiais exclusivos, você transforma seu aprendizado em algo simples e divertido.\nNão perca essa oportunidade de entrar no mundo da tecnologia! Inscreva-se agora e comece a criar seus próprios projetos inovadores com Arduino. Seja para hobby, profissão ou negócios, esse é o primeiro passo para dominar a eletrônica e a programação! ',
 
-        howTitle1: '',
-        howDesc1: '',
+        howTitle1: 'Arduino Básico',
+        howDesc1: 'Aprenda os conceitos fundamentais e comece a programar em Arduino de forma simples e prática, criando seus primeiros projetos eletrônicos com confiança',
 
-        howTitle2: '',
-        howDesc2: '',
+        howTitle2: 'Prática Eletrônica',
+        howDesc2: 'Pratique bastante e domine a programação em Arduino! Aprenda os conceitos básicos e desenvolva projetos eletrônicos de forma hands-on e eficiente',
 
-        howTitle3: '',
-        howDesc3: '',
+        howTitle3: 'Autonomia Profissional',
+        howDesc3: 'Ganhe autonomia profissional com Arduino! Aprenda a programar e desenvolver projetos eletrônicos completos, desde os conceitos básicos até aplicações avançadas.',
 
-        howTitle4: '',
-        howDesc4: '',
+        howTitle4: 'Programação Prática',
+        howDesc4: 'Aprenda de forma hands-on a criar projetos eletrônicos funcionais e desenvolva suas habilidades de programação',
 
-        bonusTitle1: '',
-        bonusDesc1: '',
-        bonusLil1Desc1: '',
-        bonusLil2Desc1: '',
-        bonusLil3Desc1: '',
+        bonusTitle1: 'Guia Completo de Montagem da Garra do Braço Robótico',
+        bonusDesc1: 'Aprenda a montar a garra do braço robótico com um guia detalhado e prático',
+        bonusLil1Desc1: 'Entenda o funcionamento dos motores e sua aplicação na garra',
+        bonusLil2Desc1: 'Lista de materiais necessários e esquema de identificação das peças',
+        bonusLil3Desc1: 'Passo a passo para a conexão da garra e do servo motor',
 
-        bonusTitle2: '',
-        bonusDesc2: '',
-        bonusLil1Desc2: '',
-        bonusLil2Desc2: '',
-        bonusLil3Desc2: '',
+        bonusTitle2: 'Aulão de Solda: Técnicas para Componentes e Fios',
+        bonusDesc2: 'Aprenda a realizar soldas seguras e precisas para seus projetos robóticos',
+        bonusLil1Desc2: 'Conheça as ferramentas essenciais para soldagem',
+        bonusLil2Desc2: 'Dicas de segurança para soldar fios e componentes com confiança',
+        bonusLil3Desc2: 'Passo a passo detalhado para criar conexões perfeitas e duráveis',
 
-        bonusTitle3: '',
-        bonusDesc3: '',
-        bonusLil1Desc3: '',
-        bonusLil2Desc3: '',
-        bonusLil3Desc3: '',
+        bonusTitle3: 'Montagem do Robô 2WD: Do Zero ao Funcionamento',
+        bonusDesc3: 'Aprenda a montar seu robô de duas rodas desde o início, com instruções detalhadas e práticas',
+        bonusLil1Desc3: 'Passo a passo completo da montagem do kit',
+        bonusLil2Desc3: 'Dicas e cuidados essenciais para a instalação dos motores',
+        bonusLil3Desc3: 'Como utilizar decoders para regular a tensão de alimentação com precisão',
+
+        bonusTitle4: 'Robô EasyRoverDS: Acionamento e Montagem',
+        bonusDesc4: 'Explore sugestões de códigos de acionamento e domine a montagem do robô EasyRoverDS',
+        bonusLil1Desc4: 'Manual completo com esquema detalhado de montagem',
+        bonusLil2Desc4: 'Planos da plataforma robótica em spumapaper para construção precisa',
+        bonusLil3Desc4: 'Tutorial passo a passo para modificar o servo Turnigy Tg9e',
 
     },
     { //guia de referencia arduino
         id: 4,
-        productName: '',
+        productName: 'Guia de referencia arduino',
         thumb: "https://kronus.kebook.com.br/assets/793fb542-407c-41da-81b2-1ca7f658486b/content-expert.png",
         archive: "",
         linkTo: "",
 
-        title: '',
+        title: 'Guia Essencial do Arduino: Comandos, Funções e Exemplos Práticos para Criar Projetos como um Expert',
 
-        subtitle: '',
+        subtitle: 'Tenha o Guia Definitivo do Arduino: Acesso rápido a comandos, funções e exemplos práticos para programar como um expert e criar projetos incríveis sem perder tempo',
 
-        aboutTitle: '',
-        aboutProduct: '',
+        aboutTitle: 'Guia de Referência do Arduino: O Manual Essencial para Programadores de Todos os Níveis',
+        aboutProduct: 'Imagine ter em mãos um guia completo que simplifica a programação em Arduino, com acesso rápido a uma vasta biblioteca de comandos, funções e exemplos práticos. Este é o Guia de Referência do Arduino, criado para ser seu companheiro definitivo na jornada de criação de projetos incríveis. Seja você um iniciante ou um maker experiente, este guia vai economizar seu tempo e elevar suas habilidades, trazendo clareza e eficiência para seus desenvolvimentos.\nCom uma estrutura organizada e de fácil consulta, você encontrará explicações detalhadas, dicas práticas e exemplos prontos para uso. Desde comandos básicos até funções avançadas, tudo está aqui para que você possa programar com confiança e precisão. Este guia é a ferramenta perfeita para quem quer evitar erros comuns, acelerar o aprendizado e transformar ideias em projetos funcionais de forma rápida e eficaz.\nNão importa se você está criando um projeto pessoal, desenvolvendo um protótipo ou ensinando Arduino – este guia será seu aliado em todas as etapas. Tenha acesso imediato a um conteúdo valioso, projetado para otimizar seu fluxo de trabalho e maximizar seus resultados. Adquira agora o Guia de Referência do Arduino e leve suas habilidades de programação para o próximo nível!',
 
-        howTitle1: '',
-        howDesc1: '',
+        howTitle1: 'Referência Arduino',
+        howDesc1: 'Tenha um guia completo com uma vasta biblioteca de comandos, funções e exemplos práticos para facilitar seus projetos com Arduino e turbinar sua programação',
 
-        howTitle2: '',
-        howDesc2: '',
+        howTitle2: 'Funções Explicadas',
+        howDesc2: 'Entenda como cada função do Arduino funciona! Acesse explicações claras, exemplos práticos e domine a programação com um guia completo e fácil de consultar',
 
-        howTitle3: '',
-        howDesc3: '',
+        howTitle3: 'Códigos Práticos',
+        howDesc3: 'Explore diversos exemplos de códigos prontos e funcionais no guia do Arduino, facilitando sua aprendizagem e aplicação em projetos reais de forma rápida e eficiente',
 
-        howTitle4: '',
-        howDesc4: '',
+        howTitle4: 'Guia Rápido',
+        howDesc4: 'Tenha um guia de consulta prático e organizado, com funções, comandos e exemplos de código ao seu alcance para resolver dúvidas e acelerar seus projetos com Arduino',
 
         bonusTitle1: '',
         bonusDesc1: '',
@@ -191,74 +197,29 @@ const entregasSpy = [
     },
     { //arduino avançado
         id: 5,
-        productName: '',
+        productName: 'Arduino Avançado',
         thumb: "https://kronus.kebook.com.br/assets/a1ea6a67-6df1-4198-a0df-ff0e242a9245/content-expert.png",
         archive: "",
         linkTo: "",
 
-        title: '',
+        title: 'Domine os Segredos do Arduino com Placas e Projetos Complexos para Criar Soluções Tecnológicas ',
 
-        subtitle: '',
+        subtitle: 'Descubra como dominar ESP8266, ESP32 e IoT para criar projetos conectados e revolucionários',
 
-        aboutTitle: '',
-        aboutProduct: '',
+        aboutTitle: 'Domine placas e projetos complexos com Arduino e crie soluções inovadoras como um expert',
+        aboutProduct: 'Você já domina o básico, mas quer ir além? No Curso de Arduino Avançado, você aprenderá a fundo sobre ESP8266, ESP32, Internet das Coisas (IoT) e comunicação M2M, transformando suas ideias em projetos conectados e inteligentes. Imagine controlar dispositivos à distância, criar automações poderosas e explorar o futuro da tecnologia com segurança e precisão!\nDo conceito à prática, sem enrolação! Com um método direto, exercícios aplicados e suporte especializado, você dominará protocolos avançados, integração com a nuvem e desenvolvimento de sistemas completos. Ideal para makers, engenheiros e entusiastas que querem sair na frente!\nO futuro é agora! As empresas buscam profissionais capacitados em IoT e automação. Inscreva-se e torne-se um especialista pronto para transformar qualquer projeto em uma inovação real!',
 
-        howTitle1: '',
-        howDesc1: '',
+        howTitle1: 'IoT com Arduino',
+        howDesc1: 'Domine a Internet das Coisas com Arduino! Aprenda a usar placas como ESP8266 e ESP32 para criar projetos conectados e inovadores de forma prática e eficiente',
 
-        howTitle2: '',
-        howDesc2: '',
+        howTitle2: 'Placas Avançadas',
+        howDesc2: 'Explore o potencial das placas avançadas como ESP8266 e ESP32! Aprenda a utilizá-las em projetos de IoT e M2M, elevando suas habilidades com Arduino',
 
-        howTitle3: '',
-        howDesc3: '',
+        howTitle3: 'Especialização Arduino',
+        howDesc3: 'Torne-se um especialista em Arduino. Leve seus projetos eletrônicos ao próximo nível e diferencie-se dos outros no mercado.',
 
-        howTitle4: '',
-        howDesc4: '',
-
-        bonusTitle1: '',
-        bonusDesc1: '',
-        bonusLil1Desc1: '',
-        bonusLil2Desc1: '',
-        bonusLil3Desc1: '',
-
-        bonusTitle2: '',
-        bonusDesc2: '',
-        bonusLil1Desc2: '',
-        bonusLil2Desc2: '',
-        bonusLil3Desc2: '',
-
-        bonusTitle3: '',
-        bonusDesc3: '',
-        bonusLil1Desc3: '',
-        bonusLil2Desc3: '',
-        bonusLil3Desc3: '',
-
-    },
-    { //mentoria
-        id: 6,
-        productName: '',
-        thumb: "https://kronus.kebook.com.br/assets/ecd9218e-a44e-48ff-983e-de64164d3ffb/content-expert.png",
-        archive: "",
-        linkTo: "",
-
-        title: '',
-
-        subtitle: '',
-
-        aboutTitle: '',
-        aboutProduct: '',
-
-        howTitle1: '',
-        howDesc1: '',
-
-        howTitle2: '',
-        howDesc2: '',
-
-        howTitle3: '',
-        howDesc3: '',
-
-        howTitle4: '',
-        howDesc4: '',
+        howTitle4: 'Pratique Arduino',
+        howDesc4: 'Aprenda Arduino de forma prática e passo a passo! Com exemplos reais e tutoriais detalhados, domine desde o básico até projetos avançados com confiança e eficiência',
 
         bonusTitle1: '',
         bonusDesc1: '',
@@ -278,7 +239,7 @@ const entregasSpy = [
         bonusLil2Desc3: '',
         bonusLil3Desc3: '',
 
-    },
+    }
 ]
 
 const showModal = ref(false);
