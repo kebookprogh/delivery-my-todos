@@ -147,6 +147,7 @@ const entregasSpy = [
         productName: 'Pintando com Marcadores',
         thumb: "https://kronus.kebook.com.br/assets/55c25079-1155-4fbc-8cb9-7d950a7f5b7d/content-expert.png",
         archive: "1-X1EVRW8sjNk9hFohLDNoyNBmSGTilOR",
+        linkTO: "https://testingmarcadoresanime.kebook.com.br/",
 
         title: 'Domine a Arte da Pintura com Marcadores e Transforme Ilustrações em Animes',
 
