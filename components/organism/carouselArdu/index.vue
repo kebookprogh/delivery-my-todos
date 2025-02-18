@@ -14,7 +14,7 @@ const entregasSpy = [
         productName: 'Arduino 2.0',
         thumb: "https://kronus.kebook.com.br/assets/0a17ebc3-8b5b-436b-aac9-af2ae925ad53/content-expert.png",
         archive: "",
-        linkTo: "",
+        linkTo: "https://testingcursodearduino.kebook.com.br/",
 
         title: 'Aprenda Arduino do zero programe com facilidade e desenvolva projetos inovadores que impressionam',
 
@@ -253,6 +253,7 @@ const openModal = (delivery: any) => {
 const closeModal = () => {
   showModal.value = false;
 };
+
 </script>
 <template>
     <section class="flex flex-col items-center justify-center mt-10">
@@ -279,7 +280,6 @@ const closeModal = () => {
                 <CarouselNext />
             </Carousel>
         </div>
-
         <!-- Modal -->
         <div v-if="showModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50"
             @click.self="closeModal">
