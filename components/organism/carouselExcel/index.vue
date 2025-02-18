@@ -58,6 +58,7 @@ const entregasExcel = [
         productName: 'Aula: Como Criar um Dashboard',
         thumb: "https://kronus.kebook.com.br/assets/c6aa3ce7-c296-43a4-bc75-1b21b95d4b5a/content-expert.png",
         archive: "1H7iLqHAClyrw8s2oaXtqyAt38YraIUVP",
+        linkTo: "https://testingdashboard.kebook.com.br/",
 
         title: 'Aula para Criar Dashboards Dinâmicos no Excel Transforme Dados em Decisões ',
 
