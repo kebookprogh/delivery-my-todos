@@ -15,6 +15,7 @@ const entregasSpy = [
         productName: 'Como Desenhar',
         thumb: "https://kronus.kebook.com.br/assets/8926ea06-fcf6-47c0-9c3a-440c1a3478a6/content-expert.png",
         archive: "1dpm-5fsVt0hRNwtjlBVHGJFkndZ_Jv3a",
+        linkTo: "https://testingcomodesenhar.kebook.com.br",
 
         title: 'Desbloqueie o Artista: Técnicas e Práticas para Excelência em Desenho',
 
@@ -327,6 +328,7 @@ const closeModal = () => {
                 </div>
 
                 <div class="p-4 border-t flex justify-end space-x-7">
+                    <a v-if="selectedDelivery.linkTo" :href="selectedDelivery.linkTo" class="px-4 py-2 bg-yellow-200 hover:bg-yellow-300 rounded-lg">Ver Online</a>
                     <button 
                         @click="closeModal"
                         class="px-4 py-2 bg-gray-200 hover:bg-gray-300 rounded-lg"
