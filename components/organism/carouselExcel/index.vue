@@ -497,6 +497,7 @@ const closeModal = () => {
                 </div>
 
                 <div class="p-4 border-t flex justify-end space-x-7">
+                    <a v-if="selectedDelivery.linkTo" :href="selectedDelivery.linkTo" class="px-4 py-2 bg-yellow-200 hover:bg-yellow-300 rounded-lg">Ver Online</a>
                     <button 
                         @click="closeModal"
                         class="px-4 py-2 bg-gray-200 hover:bg-gray-300 rounded-lg"
